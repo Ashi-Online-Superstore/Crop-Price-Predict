@@ -1,0 +1,2449 @@
+Year ,Crop ,Month ,City,State,Price
+2023.0,Paddy ,January ,Nellore ,Andhra Pradesh ,2813.0
+2023.0,Paddy ,February,Nellore ,Andhra Pradesh ,2930.0
+2023.0,Paddy ,March ,Nellore ,Andhra Pradesh ,2840.0
+2023.0,Paddy ,April ,Nellore ,Andhra Pradesh ,2650.0
+2023.0,Paddy ,May,Nellore ,Andhra Pradesh ,2525.0
+2023.0,Paddy ,June,Nellore ,Andhra Pradesh ,2740.0
+2023.0,Paddy ,July ,Nellore ,Andhra Pradesh ,3050.0
+2023.0,Paddy ,August ,Nellore ,Andhra Pradesh ,3176.0
+2023.0,Paddy ,September ,Nellore ,Andhra Pradesh ,3160.0
+2023.0,Paddy ,October ,Nellore ,Andhra Pradesh ,3130.0
+2023.0,Paddy ,November ,Nellore ,Andhra Pradesh ,3110.0
+2023.0,Paddy ,December ,Nellore ,Andhra Pradesh ,3280.0
+2023.0,Paddy ,January,Parvatipuram,Andhra Pradesh ,1941.0
+2023.0,Paddy ,February,Parvatipuram,Andhra Pradesh ,2015.0
+2023.0,Paddy ,March,Parvatipuram,Andhra Pradesh ,2040.0
+2023.0,Paddy ,April,Parvatipuram,Andhra Pradesh ,2040.0
+2023.0,Paddy ,May,Parvatipuram,Andhra Pradesh ,1995.0
+2023.0,Paddy ,June,Parvatipuram,Andhra Pradesh ,1942.0
+2023.0,Paddy ,July,Parvatipuram,Andhra Pradesh ,1946.0
+2023.0,Paddy ,August,Parvatipuram,Andhra Pradesh ,1963.0
+2023.0,Paddy ,September,Parvatipuram,Andhra Pradesh ,2035.0
+2023.0,Paddy ,October,Parvatipuram,Andhra Pradesh ,2083.0
+2023.0,Paddy ,November,Parvatipuram,Andhra Pradesh ,2100.0
+2023.0,Paddy ,December,Parvatipuram,Andhra Pradesh ,2160.0
+2023.0,Paddy ,January,Sasaram ,Bihar,1810.0
+2023.0,Paddy ,February,Sasaram ,Bihar,1820.0
+2023.0,Paddy ,March,Sasaram ,Bihar,1828.0
+2023.0,Paddy ,April,Sasaram ,Bihar,1850.0
+2023.0,Paddy ,May,Sasaram ,Bihar,1880.0
+2023.0,Paddy ,June,Sasaram ,Bihar,1918.0
+2023.0,Paddy ,July,Sasaram ,Bihar,1945.0
+2023.0,Paddy ,August,Sasaram ,Bihar,1973.0
+2023.0,Paddy ,September,Sasaram ,Bihar,2012.0
+2023.0,Paddy ,October,Sasaram ,Bihar,2038.0
+2023.0,Paddy ,November,Sasaram ,Bihar,2018.0
+2023.0,Paddy ,December,Sasaram ,Bihar,1948.0
+2023.0,Paddy ,January,Gulabbagh,Bihar,1753.0
+2023.0,Paddy ,February,Gulabbagh,Bihar,1733.0
+2023.0,Paddy ,March,Gulabbagh,Bihar,1748.0
+2023.0,Paddy ,April,Gulabbagh,Bihar,1760.0
+2023.0,Paddy ,May,Gulabbagh,Bihar,1773.0
+2023.0,Paddy ,June,Gulabbagh,Bihar,1762.0
+2023.0,Paddy ,July,Gulabbagh,Bihar,1785.0
+2023.0,Paddy ,August,Gulabbagh,Bihar,1823.0
+2023.0,Paddy ,September,Gulabbagh,Bihar,1858.0
+2023.0,Paddy ,October,Gulabbagh,Bihar,1878.0
+2023.0,Paddy ,November,Gulabbagh,Bihar,1875.0
+2023.0,Paddy ,December,Gulabbagh,Bihar,1838.0
+2023.0,Paddy ,January,Bavla,Gujarat ,1901.0
+2023.0,Paddy ,February,Bavla,Gujarat ,1929.0
+2023.0,Paddy ,March,Bavla,Gujarat ,1875.0
+2023.0,Paddy ,April,Bavla,Gujarat ,1933.0
+2023.0,Paddy ,May,Bavla,Gujarat ,1857.0
+2023.0,Paddy ,June,Bavla,Gujarat ,2042.0
+2023.0,Paddy ,July,Bavla,Gujarat ,2118.0
+2023.0,Paddy ,August,Bavla,Gujarat ,2319.0
+2023.0,Paddy ,September,Bavla,Gujarat ,2056.0
+2023.0,Paddy ,October,Bavla,Gujarat ,1895.0
+2023.0,Paddy ,November,Bavla,Gujarat ,1934.0
+2023.0,Paddy ,December,Bavla,Gujarat ,2115.0
+2023.0,Paddy ,January,Ambala ,Harayana ,4653.0
+2023.0,Paddy ,February,Ambala ,Harayana ,4850.0
+2023.0,Paddy ,March,Ambala ,Harayana ,4924.0
+2023.0,Paddy ,April,Ambala ,Harayana ,4544.0
+2023.0,Paddy ,May,Ambala ,Harayana ,4508.0
+2023.0,Paddy ,June,Ambala ,Harayana ,4430.0
+2023.0,Paddy ,July,Ambala ,Harayana ,3713.0
+2023.0,Paddy ,August,Ambala ,Harayana ,3702.0
+2023.0,Paddy ,September,Ambala ,Harayana ,3858.0
+2023.0,Paddy ,October,Ambala ,Harayana ,3953.0
+2023.0,Paddy ,November,Ambala ,Harayana ,4500.0
+2023.0,Paddy ,December,Ambala ,Harayana ,4936.0
+2022.0,Paddy ,January,Nellore ,Andhra Pradesh ,1980.0
+2022.0,Paddy ,February,Nellore ,Andhra Pradesh ,1980.0
+2022.0,Paddy ,March,Nellore ,Andhra Pradesh ,1980.0
+2022.0,Paddy ,April,Nellore ,Andhra Pradesh ,1976.0
+2022.0,Paddy ,May,Nellore ,Andhra Pradesh ,1960.0
+2022.0,Paddy ,June,Nellore ,Andhra Pradesh ,2120.0
+2022.0,Paddy ,July,Nellore ,Andhra Pradesh ,2476.0
+2022.0,Paddy ,August,Nellore ,Andhra Pradesh ,2600.0
+2022.0,Paddy ,September,Nellore ,Andhra Pradesh ,2730.0
+2022.0,Paddy ,October,Nellore ,Andhra Pradesh ,2850.0
+2022.0,Paddy ,November,Nellore ,Andhra Pradesh ,2830.0
+2022.0,Paddy ,December,Nellore ,Andhra Pradesh ,2860.0
+2022.0,Paddy ,January,Parvatipuram,Andhra Pradesh ,1873.0
+2022.0,Paddy ,February,Parvatipuram,Andhra Pradesh ,1888.0
+2022.0,Paddy ,March,Parvatipuram,Andhra Pradesh ,1888.0
+2022.0,Paddy ,April,Parvatipuram,Andhra Pradesh ,1940.0
+2022.0,Paddy ,May,Parvatipuram,Andhra Pradesh ,1940.0
+2022.0,Paddy ,June,Parvatipuram,Andhra Pradesh ,1940.0
+2022.0,Paddy ,July,Parvatipuram,Andhra Pradesh ,1940.0
+2022.0,Paddy ,August,Parvatipuram,Andhra Pradesh ,1940.0
+2022.0,Paddy ,September,Parvatipuram,Andhra Pradesh ,1940.0
+2022.0,Paddy ,October,Parvatipuram,Andhra Pradesh ,1940.0
+2022.0,Paddy ,November,Parvatipuram,Andhra Pradesh ,1940.0
+2022.0,Paddy ,December,Parvatipuram,Andhra Pradesh ,1940.0
+2022.0,Paddy ,January,Sasaram ,Bihar,1830.0
+2022.0,Paddy ,February,Sasaram ,Bihar,1855.0
+2022.0,Paddy ,March,Sasaram ,Bihar,1848.0
+2022.0,Paddy ,April,Sasaram ,Bihar,1826.0
+2022.0,Paddy ,May,Sasaram ,Bihar,1850.0
+2022.0,Paddy ,June,Sasaram ,Bihar,1850.0
+2022.0,Paddy ,July,Sasaram ,Bihar,1870.0
+2022.0,Paddy ,August,Sasaram ,Bihar,1870.0
+2022.0,Paddy ,September,Sasaram ,Bihar,1836.0
+2022.0,Paddy ,October,Sasaram ,Bihar,1795.0
+2022.0,Paddy ,November,Sasaram ,Bihar,1758.0
+2022.0,Paddy ,December,Sasaram ,Bihar,1776.0
+2022.0,Paddy ,January,Gulabbagh,Bihar,1808.0
+2022.0,Paddy ,February,Gulabbagh,Bihar,1815.0
+2022.0,Paddy ,March,Gulabbagh,Bihar,1795.0
+2022.0,Paddy ,April,Gulabbagh,Bihar,1784.0
+2022.0,Paddy ,May,Gulabbagh,Bihar,1800.0
+2022.0,Paddy ,June,Gulabbagh,Bihar,1840.0
+2022.0,Paddy ,July,Gulabbagh,Bihar,1824.0
+2022.0,Paddy ,August,Gulabbagh,Bihar,1800.0
+2022.0,Paddy ,September,Gulabbagh,Bihar,1776.0
+2022.0,Paddy ,October,Gulabbagh,Bihar,1730.0
+2022.0,Paddy ,November,Gulabbagh,Bihar,1705.0
+2022.0,Paddy ,December,Gulabbagh,Bihar,1746.0
+2022.0,Paddy ,January,Bavla,Gujarat ,1813.0
+2022.0,Paddy ,February,Bavla,Gujarat ,1775.0
+2022.0,Paddy ,March,Bavla,Gujarat ,1845.0
+2022.0,Paddy ,April,Bavla,Gujarat ,1809.0
+2022.0,Paddy ,May,Bavla,Gujarat ,1760.0
+2022.0,Paddy ,June,Bavla,Gujarat ,1743.0
+2022.0,Paddy ,July,Bavla,Gujarat ,1799.0
+2022.0,Paddy ,August,Bavla,Gujarat ,1700.0
+2022.0,Paddy ,September,Bavla,Gujarat ,1795.0
+2022.0,Paddy ,October,Bavla,Gujarat ,1888.0
+2022.0,Paddy ,November,Bavla,Gujarat ,1868.0
+2022.0,Paddy ,December,Bavla,Gujarat ,1822.0
+2022.0,Paddy ,January,Ambala ,Harayana ,4110.0
+2022.0,Paddy ,February,Ambala ,Harayana ,3873.0
+2022.0,Paddy ,March,Ambala ,Harayana ,3983.0
+2022.0,Paddy ,April,Ambala ,Harayana ,4260.0
+2022.0,Paddy ,May,Ambala ,Harayana ,4310.0
+2022.0,Paddy ,June,Ambala ,Harayana ,4500.0
+2022.0,Paddy ,July,Ambala ,Harayana ,4660.0
+2022.0,Paddy ,August,Ambala ,Harayana ,4648.0
+2022.0,Paddy ,September,Ambala ,Harayana ,4240.0
+2022.0,Paddy ,October,Ambala ,Harayana ,3388.0
+2022.0,Paddy ,November,Ambala ,Harayana ,3469.0
+2022.0,Paddy ,December,Ambala ,Harayana ,3986.0
+2023.0,Paddy ,January ,Tattamangalam,Kerala ,2400.0
+2023.0,Paddy ,February,Tattamangalam,Kerala ,2400.0
+2023.0,Paddy ,March ,Tattamangalam,Kerala ,2400.0
+2023.0,Paddy ,April ,Tattamangalam,Kerala ,2375.0
+2023.0,Paddy ,May,Tattamangalam,Kerala ,2300.0
+2023.0,Paddy ,June,Tattamangalam,Kerala ,2300.0
+2023.0,Paddy ,July ,Tattamangalam,Kerala ,2350.0
+2023.0,Paddy ,August ,Tattamangalam,Kerala ,2400.0
+2023.0,Paddy ,September ,Tattamangalam,Kerala ,2480.0
+2023.0,Paddy ,October ,Tattamangalam,Kerala ,2500.0
+2023.0,Paddy ,November ,Tattamangalam,Kerala ,2400.0
+2023.0,Paddy ,December ,Tattamangalam,Kerala ,2320.0
+2023.0,Paddy ,January,Palakkad ,Kerala ,2500.0
+2023.0,Paddy ,February,Palakkad ,Kerala ,2500.0
+2023.0,Paddy ,March,Palakkad ,Kerala ,2500.0
+2023.0,Paddy ,April,Palakkad ,Kerala ,2500.0
+2023.0,Paddy ,May,Palakkad ,Kerala ,2500.0
+2023.0,Paddy ,June,Palakkad ,Kerala ,2540.0
+2023.0,Paddy ,July,Palakkad ,Kerala ,2600.0
+2023.0,Paddy ,August,Palakkad ,Kerala ,2600.0
+2023.0,Paddy ,September,Palakkad ,Kerala ,2600.0
+2023.0,Paddy ,October,Palakkad ,Kerala ,2575.0
+2023.0,Paddy ,November,Palakkad ,Kerala ,2650.0
+2023.0,Paddy ,December,Palakkad ,Kerala ,2600.0
+2023.0,Paddy ,January,Pullinkunnu,Kerala ,2800.0
+2023.0,Paddy ,February,Pullinkunnu,Kerala ,2800.0
+2023.0,Paddy ,March,Pullinkunnu,Kerala ,2800.0
+2023.0,Paddy ,April,Pullinkunnu,Kerala ,2800.0
+2023.0,Paddy ,May,Pullinkunnu,Kerala ,2800.0
+2023.0,Paddy ,June,Pullinkunnu,Kerala ,2800.0
+2023.0,Paddy ,July,Pullinkunnu,Kerala ,2820.0
+2023.0,Paddy ,August,Pullinkunnu,Kerala ,2820.0
+2023.0,Paddy ,September,Pullinkunnu,Kerala ,2820.0
+2023.0,Paddy ,October,Pullinkunnu,Kerala ,2820.0
+2023.0,Paddy ,November,Pullinkunnu,Kerala ,2820.0
+2023.0,Paddy ,December,Pullinkunnu,Kerala ,2820.0
+2023.0,Paddy ,January,Mysore,Karnataka ,1864.0
+2023.0,Paddy ,February,Mysore,Karnataka ,2106.0
+2023.0,Paddy ,March,Mysore,Karnataka ,2075.0
+2023.0,Paddy ,April,Mysore,Karnataka ,2025.0
+2023.0,Paddy ,May,Mysore,Karnataka ,2100.0
+2023.0,Paddy ,June,Mysore,Karnataka ,2150.0
+2023.0,Paddy ,July,Mysore,Karnataka ,2165.0
+2023.0,Paddy ,August,Mysore,Karnataka ,2445.0
+2023.0,Paddy ,September,Mysore,Karnataka ,2510.0
+2023.0,Paddy ,October,Mysore,Karnataka ,2488.0
+2023.0,Paddy ,November,Mysore,Karnataka ,2220.0
+2023.0,Paddy ,December,Mysore,Karnataka ,2388.0
+2023.0,Paddy ,January,Gondia,Maharashtra ,2250.0
+2023.0,Paddy ,February,Gondia,Maharashtra ,2225.0
+2023.0,Paddy ,March,Gondia,Maharashtra ,2125.0
+2023.0,Paddy ,April,Gondia,Maharashtra ,2200.0
+2023.0,Paddy ,May,Gondia,Maharashtra ,2050.0
+2023.0,Paddy ,June,Gondia,Maharashtra ,1833.0
+2023.0,Paddy ,July,Gondia,Maharashtra ,1833.0
+2023.0,Paddy ,August,Gondia,Maharashtra ,2100.0
+2023.0,Paddy ,September,Gondia,Maharashtra ,2100.0
+2023.0,Paddy ,October,Gondia,Maharashtra ,2100.0
+2023.0,Paddy ,November,Gondia,Maharashtra ,2100.0
+2023.0,Paddy ,December,Gondia,Maharashtra ,2100.0
+2023.0,Paddy ,January,Kolhapur ,Maharashtra ,2375.0
+2023.0,Paddy ,February,Kolhapur ,Maharashtra ,2438.0
+2023.0,Paddy ,March,Kolhapur ,Maharashtra ,2420.0
+2023.0,Paddy ,April,Kolhapur ,Maharashtra ,2388.0
+2023.0,Paddy ,May,Kolhapur ,Maharashtra ,2388.0
+2023.0,Paddy ,June,Kolhapur ,Maharashtra ,2450.0
+2023.0,Paddy ,July,Kolhapur ,Maharashtra ,2438.0
+2023.0,Paddy ,August,Kolhapur ,Maharashtra ,2450.0
+2023.0,Paddy ,September,Kolhapur ,Maharashtra ,2360.0
+2023.0,Paddy ,October,Kolhapur ,Maharashtra ,2150.0
+2023.0,Paddy ,November,Kolhapur ,Maharashtra ,2050.0
+2023.0,Paddy ,December,Kolhapur ,Maharashtra ,1863.0
+2022.0,Paddy ,January,Tattamangalam,Kerala ,1900.0
+2022.0,Paddy ,February,Tattamangalam,Kerala ,1950.0
+2022.0,Paddy ,March,Tattamangalam,Kerala ,2000.0
+2022.0,Paddy ,April,Tattamangalam,Kerala ,2080.0
+2022.0,Paddy ,May,Tattamangalam,Kerala ,2100.0
+2022.0,Paddy ,June,Tattamangalam,Kerala ,2100.0
+2022.0,Paddy ,July,Tattamangalam,Kerala ,2100.0
+2022.0,Paddy ,August,Tattamangalam,Kerala ,2125.0
+2022.0,Paddy ,September,Tattamangalam,Kerala ,2200.0
+2022.0,Paddy ,October,Tattamangalam,Kerala ,2275.0
+2022.0,Paddy ,November,Tattamangalam,Kerala ,2300.0
+2022.0,Paddy ,December,Tattamangalam,Kerala ,2360.0
+2022.0,Paddy ,January,Palakkad ,Kerala ,2100.0
+2022.0,Paddy ,February,Palakkad ,Kerala ,2075.0
+2022.0,Paddy ,March,Palakkad ,Kerala ,2000.0
+2022.0,Paddy ,April,Palakkad ,Kerala ,2040.0
+2022.0,Paddy ,May,Palakkad ,Kerala ,2100.0
+2022.0,Paddy ,June,Palakkad ,Kerala ,2100.0
+2022.0,Paddy ,July,Palakkad ,Kerala ,2100.0
+2022.0,Paddy ,August,Palakkad ,Kerala ,2100.0
+2022.0,Paddy ,September,Palakkad ,Kerala ,2260.0
+2022.0,Paddy ,October,Palakkad ,Kerala ,2500.0
+2022.0,Paddy ,November,Palakkad ,Kerala ,2500.0
+2022.0,Paddy ,December,Palakkad ,Kerala ,2500.0
+2022.0,Paddy ,January,Pullinkunnu,Kerala ,2800.0
+2022.0,Paddy ,February,Pullinkunnu,Kerala ,2800.0
+2022.0,Paddy ,March,Pullinkunnu,Kerala ,2800.0
+2022.0,Paddy ,April,Pullinkunnu,Kerala ,2800.0
+2022.0,Paddy ,May,Pullinkunnu,Kerala ,2800.0
+2022.0,Paddy ,June,Pullinkunnu,Kerala ,2800.0
+2022.0,Paddy ,July,Pullinkunnu,Kerala ,2800.0
+2022.0,Paddy ,August,Pullinkunnu,Kerala ,2800.0
+2022.0,Paddy ,September,Pullinkunnu,Kerala ,2800.0
+2022.0,Paddy ,October,Pullinkunnu,Kerala ,2800.0
+2022.0,Paddy ,November,Pullinkunnu,Kerala ,2800.0
+2022.0,Paddy ,December,Pullinkunnu,Kerala ,2800.0
+2022.0,Paddy ,January,Mysore,Karnataka ,1630.0
+2022.0,Paddy ,February,Mysore,Karnataka ,1570.0
+2022.0,Paddy ,March,Mysore,Karnataka ,1761.0
+2022.0,Paddy ,April,Mysore,Karnataka ,1848.0
+2022.0,Paddy ,May,Mysore,Karnataka ,1791.0
+2022.0,Paddy ,June,Mysore,Karnataka ,1719.0
+2022.0,Paddy ,July,Mysore,Karnataka ,1544.0
+2022.0,Paddy ,August,Mysore,Karnataka ,1720.0
+2022.0,Paddy ,September,Mysore,Karnataka ,1701.0
+2022.0,Paddy ,October,Mysore,Karnataka ,1650.0
+2022.0,Paddy ,November,Mysore,Karnataka ,2133.0
+2022.0,Paddy ,December,Mysore,Karnataka ,1991.0
+2022.0,Paddy ,January,Gondia,Maharashtra ,1625.0
+2022.0,Paddy ,February,Gondia,Maharashtra ,1613.0
+2022.0,Paddy ,March,Gondia,Maharashtra ,1700.0
+2022.0,Paddy ,April,Gondia,Maharashtra ,1970.0
+2022.0,Paddy ,May,Gondia,Maharashtra ,2175.0
+2022.0,Paddy ,June,Gondia,Maharashtra ,1638.0
+2022.0,Paddy ,July,Gondia,Maharashtra ,1540.0
+2022.0,Paddy ,August,Gondia,Maharashtra ,1625.0
+2022.0,Paddy ,September,Gondia,Maharashtra ,1750.0
+2022.0,Paddy ,October,Gondia,Maharashtra ,1775.0
+2022.0,Paddy ,November,Gondia,Maharashtra ,1750.0
+2022.0,Paddy ,December,Gondia,Maharashtra ,2110.0
+2022.0,Paddy ,January,Kolhapur ,Maharashtra ,2075.0
+2022.0,Paddy ,February,Kolhapur ,Maharashtra ,2125.0
+2022.0,Paddy ,March,Kolhapur ,Maharashtra ,2175.0
+2022.0,Paddy ,April,Kolhapur ,Maharashtra ,2120.0
+2022.0,Paddy ,May,Kolhapur ,Maharashtra ,2263.0
+2022.0,Paddy ,June,Kolhapur ,Maharashtra ,2163.0
+2022.0,Paddy ,July,Kolhapur ,Maharashtra ,2100.0
+2022.0,Paddy ,August,Kolhapur ,Maharashtra ,2113.0
+2022.0,Paddy ,September,Kolhapur ,Maharashtra ,2140.0
+2022.0,Paddy ,October,Kolhapur ,Maharashtra ,2125.0
+2022.0,Paddy ,November,Kolhapur ,Maharashtra ,2275.0
+2022.0,Paddy ,December,Kolhapur ,Maharashtra ,2330.0
+2023.0,Paddy ,January,Amritsar ,Punjab ,4188.0
+2023.0,Paddy ,February,Amritsar ,Punjab ,4269.0
+2023.0,Paddy ,March,Amritsar ,Punjab ,4040.0
+2023.0,Paddy ,April,Amritsar ,Punjab ,4150.0
+2023.0,Paddy ,May,Amritsar ,Punjab ,3805.0
+2023.0,Paddy ,June,Amritsar ,Punjab ,3805.0
+2023.0,Paddy ,July,Amritsar ,Punjab ,3805.0
+2023.0,Paddy ,August,Amritsar ,Punjab ,3805.0
+2023.0,Paddy ,September,Amritsar ,Punjab ,3460.0
+2023.0,Paddy ,October,Amritsar ,Punjab ,3363.0
+2023.0,Paddy ,November,Amritsar ,Punjab ,3788.0
+2023.0,Paddy ,December,Amritsar ,Punjab ,4388.0
+2023.0,Paddy ,January,Kanchipuram ,Tamilnadu ,1895.0
+2023.0,Paddy ,February,Kanchipuram ,Tamilnadu ,1905.0
+2023.0,Paddy ,March,Kanchipuram ,Tamilnadu ,1848.0
+2023.0,Paddy ,April,Kanchipuram ,Tamilnadu ,1740.0
+2023.0,Paddy ,May,Kanchipuram ,Tamilnadu ,1740.0
+2023.0,Paddy ,June,Kanchipuram ,Tamilnadu ,1804.0
+2023.0,Paddy ,July,Kanchipuram ,Tamilnadu ,1900.0
+2023.0,Paddy ,August,Kanchipuram ,Tamilnadu ,1900.0
+2023.0,Paddy ,September,Kanchipuram ,Tamilnadu ,1918.0
+2023.0,Paddy ,October,Kanchipuram ,Tamilnadu ,2020.0
+2023.0,Paddy ,November,Kanchipuram ,Tamilnadu ,2110.0
+2023.0,Paddy ,December,Kanchipuram ,Tamilnadu ,2138.0
+2023.0,Paddy ,January,Pilibhit ,Uttarpradesh ,2040.0
+2023.0,Paddy ,February,Pilibhit ,Uttarpradesh ,2040.0
+2023.0,Paddy ,March,Pilibhit ,Uttarpradesh ,1916.0
+2023.0,Paddy ,April,Pilibhit ,Uttarpradesh ,1856.0
+2023.0,Paddy ,May,Pilibhit ,Uttarpradesh ,1921.0
+2023.0,Paddy ,June,Pilibhit ,Uttarpradesh ,1936.0
+2023.0,Paddy ,July,Pilibhit ,Uttarpradesh ,1896.0
+2023.0,Paddy ,August,Pilibhit ,Uttarpradesh ,1884.0
+2023.0,Paddy ,September,Pilibhit ,Uttarpradesh ,1991.0
+2023.0,Paddy ,October,Pilibhit ,Uttarpradesh ,2096.0
+2023.0,Paddy ,November,Pilibhit ,Uttarpradesh ,2184.0
+2023.0,Paddy ,December,Pilibhit ,Uttarpradesh ,2183.0
+2023.0,Paddy ,January,Ahmadpur,West Bengal ,1965.0
+2023.0,Paddy ,February,Ahmadpur,West Bengal ,2020.0
+2023.0,Paddy ,March,Ahmadpur,West Bengal ,2060.0
+2023.0,Paddy ,April,Ahmadpur,West Bengal ,2060.0
+2023.0,Paddy ,May,Ahmadpur,West Bengal ,2060.0
+2023.0,Paddy ,June,Ahmadpur,West Bengal ,2060.0
+2023.0,Paddy ,July,Ahmadpur,West Bengal ,2083.0
+2023.0,Paddy ,August,Ahmadpur,West Bengal ,2165.0
+2023.0,Paddy ,September,Ahmadpur,West Bengal ,2170.0
+2023.0,Paddy ,October,Ahmadpur,West Bengal ,2148.0
+2023.0,Paddy ,November,Ahmadpur,West Bengal ,2140.0
+2023.0,Paddy ,December,Ahmadpur,West Bengal ,2140.0
+2023.0,Paddy ,January,Bolepur,West Bengal ,1960.0
+2023.0,Paddy ,February,Bolepur,West Bengal ,1980.0
+2023.0,Paddy ,March,Bolepur,West Bengal ,2000.0
+2023.0,Paddy ,April,Bolepur,West Bengal ,2000.0
+2023.0,Paddy ,May,Bolepur,West Bengal ,2015.0
+2023.0,Paddy ,June,Bolepur,West Bengal ,2060.0
+2023.0,Paddy ,July,Bolepur,West Bengal ,2080.0
+2023.0,Paddy ,August,Bolepur,West Bengal ,2163.0
+2023.0,Paddy ,September,Bolepur,West Bengal ,2170.0
+2023.0,Paddy ,October,Bolepur,West Bengal ,2193.0
+2023.0,Paddy ,November,Bolepur,West Bengal ,2200.0
+2023.0,Paddy ,December,Bolepur,West Bengal ,2200.0
+2022.0,Paddy ,January,Amritsar ,Punjab ,3475.0
+2022.0,Paddy ,February,Amritsar ,Punjab ,3650.0
+2022.0,Paddy ,March,Amritsar ,Punjab ,3750.0
+2022.0,Paddy ,April,Amritsar ,Punjab ,3867.0
+2022.0,Paddy ,May,Amritsar ,Punjab ,3604.0
+2022.0,Paddy ,June,Amritsar ,Punjab ,3604.0
+2022.0,Paddy ,July,Amritsar ,Punjab ,3604.0
+2022.0,Paddy ,August,Amritsar ,Punjab ,3604.0
+2022.0,Paddy ,September,Amritsar ,Punjab ,3342.0
+2022.0,Paddy ,October,Amritsar ,Punjab ,3238.0
+2022.0,Paddy ,November,Amritsar ,Punjab ,3825.0
+2022.0,Paddy ,December,Amritsar ,Punjab ,4330.0
+2022.0,Paddy ,January,Kanchipuram ,Tamilnadu ,1705.0
+2022.0,Paddy ,February,Kanchipuram ,Tamilnadu ,1666.0
+2022.0,Paddy ,March,Kanchipuram ,Tamilnadu ,1616.0
+2022.0,Paddy ,April,Kanchipuram ,Tamilnadu ,1560.0
+2022.0,Paddy ,May,Kanchipuram ,Tamilnadu ,1500.0
+2022.0,Paddy ,June,Kanchipuram ,Tamilnadu ,1500.0
+2022.0,Paddy ,July,Kanchipuram ,Tamilnadu ,1512.0
+2022.0,Paddy ,August,Kanchipuram ,Tamilnadu ,1573.0
+2022.0,Paddy ,September,Kanchipuram ,Tamilnadu ,1640.0
+2022.0,Paddy ,October,Kanchipuram ,Tamilnadu ,1740.0
+2022.0,Paddy ,November,Kanchipuram ,Tamilnadu ,1760.0
+2022.0,Paddy ,December,Kanchipuram ,Tamilnadu ,1896.0
+2022.0,Paddy ,January,Pilibhit ,Uttarpradesh ,1940.0
+2022.0,Paddy ,February,Pilibhit ,Uttarpradesh ,1940.0
+2022.0,Paddy ,March,Pilibhit ,Uttarpradesh ,1859.0
+2022.0,Paddy ,April,Pilibhit ,Uttarpradesh ,1695.0
+2022.0,Paddy ,May,Pilibhit ,Uttarpradesh ,1556.0
+2022.0,Paddy ,June,Pilibhit ,Uttarpradesh ,1474.0
+2022.0,Paddy ,July,Pilibhit ,Uttarpradesh ,1490.0
+2022.0,Paddy ,August,Pilibhit ,Uttarpradesh ,1556.0
+2022.0,Paddy ,September,Pilibhit ,Uttarpradesh ,1708.0
+2022.0,Paddy ,October,Pilibhit ,Uttarpradesh ,1918.0
+2022.0,Paddy ,November,Pilibhit ,Uttarpradesh ,2040.0
+2022.0,Paddy ,December,Pilibhit ,Uttarpradesh ,2040.0
+2022.0,Paddy ,January,Ahmadpur,West Bengal ,1888.0
+2022.0,Paddy ,February,Ahmadpur,West Bengal ,1942.0
+2022.0,Paddy ,March,Ahmadpur,West Bengal ,1960.0
+2022.0,Paddy ,April,Ahmadpur,West Bengal ,1960.0
+2022.0,Paddy ,May,Ahmadpur,West Bengal ,1960.0
+2022.0,Paddy ,June,Ahmadpur,West Bengal ,1960.0
+2022.0,Paddy ,July,Ahmadpur,West Bengal ,1960.0
+2022.0,Paddy ,August,Ahmadpur,West Bengal ,1960.0
+2022.0,Paddy ,September,Ahmadpur,West Bengal ,1960.0
+2022.0,Paddy ,October,Ahmadpur,West Bengal ,1960.0
+2022.0,Paddy ,November,Ahmadpur,West Bengal ,1960.0
+2022.0,Paddy ,December,Ahmadpur,West Bengal ,1960.0
+2022.0,Paddy ,January,Bolepur,West Bengal ,1888.0
+2022.0,Paddy ,February,Bolepur,West Bengal ,1942.0
+2022.0,Paddy ,March,Bolepur,West Bengal ,1960.0
+2022.0,Paddy ,April,Bolepur,West Bengal ,1960.0
+2022.0,Paddy ,May,Bolepur,West Bengal ,1960.0
+2022.0,Paddy ,June,Bolepur,West Bengal ,1960.0
+2022.0,Paddy ,July,Bolepur,West Bengal ,1960.0
+2022.0,Paddy ,August,Bolepur,West Bengal ,1960.0
+2022.0,Paddy ,September,Bolepur,West Bengal ,1960.0
+2022.0,Paddy ,October,Bolepur,West Bengal ,1960.0
+2022.0,Paddy ,November,Bolepur,West Bengal ,1960.0
+2022.0,Paddy ,December,Bolepur,West Bengal ,1960.0
+2022.0,Wheat,January,Hyderabad ,Telangana ,2850.0
+2022.0,Wheat,February,Hyderabad ,Telangana ,2825.0
+2022.0,Wheat,March,Hyderabad ,Telangana ,2975.0
+2022.0,Wheat,April,Hyderabad ,Telangana ,3080.0
+2022.0,Wheat,May,Hyderabad ,Telangana ,2975.0
+2022.0,Wheat,June,Hyderabad ,Telangana ,2800.0
+2022.0,Wheat,July,Hyderabad ,Telangana ,2760.0
+2022.0,Wheat,August,Hyderabad ,Telangana ,2650.0
+2022.0,Wheat,September,Hyderabad ,Telangana ,2540.0
+2022.0,Wheat,October,Hyderabad ,Telangana ,2775.0
+2022.0,Wheat,November,Hyderabad ,Telangana ,3200.0
+2022.0,Wheat,December,Hyderabad ,Telangana ,3440.0
+2022.0,Wheat,January,Kurnool ,Andhra Pradesh ,3425.0
+2022.0,Wheat,February,Kurnool ,Andhra Pradesh ,3350.0
+2022.0,Wheat,March,Kurnool ,Andhra Pradesh ,3500.0
+2022.0,Wheat,April,Kurnool ,Andhra Pradesh ,3560.0
+2022.0,Wheat,May,Kurnool ,Andhra Pradesh ,3600.0
+2022.0,Wheat,June,Kurnool ,Andhra Pradesh ,2963.0
+2022.0,Wheat,July,Kurnool ,Andhra Pradesh ,2840.0
+2022.0,Wheat,August,Kurnool ,Andhra Pradesh ,3250.0
+2022.0,Wheat,September,Kurnool ,Andhra Pradesh ,3120.0
+2022.0,Wheat,October,Kurnool ,Andhra Pradesh ,3000.0
+2022.0,Wheat,November,Kurnool ,Andhra Pradesh ,3050.0
+2022.0,Wheat,December,Kurnool ,Andhra Pradesh ,3040.0
+2022.0,Wheat,January,Patna ,Bihar ,2490.0
+2022.0,Wheat,February,Patna ,Bihar ,2450.0
+2022.0,Wheat,March,Patna ,Bihar ,2450.0
+2022.0,Wheat,April,Patna ,Bihar ,2516.0
+2022.0,Wheat,May,Patna ,Bihar ,2523.0
+2022.0,Wheat,June,Patna ,Bihar ,2575.0
+2022.0,Wheat,July,Patna ,Bihar ,2632.0
+2022.0,Wheat,August,Patna ,Bihar ,2728.0
+2022.0,Wheat,September,Patna ,Bihar ,2774.0
+2022.0,Wheat,October,Patna ,Bihar ,2800.0
+2022.0,Wheat,November,Patna ,Bihar ,2908.0
+2022.0,Wheat,December,Patna ,Bihar ,2980.0
+2022.0,Wheat,January,Sasaram ,Bihar ,2258.0
+2022.0,Wheat,February,Sasaram ,Bihar ,2215.0
+2022.0,Wheat,March,Sasaram ,Bihar ,2290.0
+2022.0,Wheat,April,Sasaram ,Bihar ,2330.0
+2022.0,Wheat,May,Sasaram ,Bihar ,2250.0
+2022.0,Wheat,June,Sasaram ,Bihar ,2268.0
+2022.0,Wheat,July,Sasaram ,Bihar ,2366.0
+2022.0,Wheat,August,Sasaram ,Bihar ,2478.0
+2022.0,Wheat,September,Sasaram ,Bihar ,2500.0
+2022.0,Wheat,October,Sasaram ,Bihar ,2480.0
+2022.0,Wheat,November,Sasaram ,Bihar ,2570.0
+2022.0,Wheat,December,Sasaram ,Bihar ,2798.0
+2022.0,Wheat,January,Dessa,Gujarat ,2025.0
+2022.0,Wheat,February,Dessa,Gujarat ,2013.0
+2022.0,Wheat,March,Dessa,Gujarat ,2176.0
+2022.0,Wheat,April,Dessa,Gujarat ,2570.0
+2022.0,Wheat,May,Dessa,Gujarat ,2363.0
+2022.0,Wheat,June,Dessa,Gujarat ,2281.0
+2022.0,Wheat,July,Dessa,Gujarat ,2206.0
+2022.0,Wheat,August,Dessa,Gujarat ,2231.0
+2022.0,Wheat,September,Dessa,Gujarat ,2303.0
+2022.0,Wheat,October,Dessa,Gujarat ,2343.0
+2022.0,Wheat,November,Dessa,Gujarat ,2663.0
+2022.0,Wheat,December,Dessa,Gujarat ,2684.0
+2022.0,Wheat ,January,Rajkot ,Gujarat ,2085.0
+2022.0,Wheat ,February,Rajkot ,Gujarat ,2090.0
+2022.0,Wheat ,March,Rajkot ,Gujarat ,2309.0
+2022.0,Wheat ,April,Rajkot ,Gujarat ,2298.0
+2022.0,Wheat ,May,Rajkot ,Gujarat ,2284.0
+2022.0,Wheat ,June,Rajkot ,Gujarat ,2206.0
+2022.0,Wheat ,July,Rajkot ,Gujarat ,2230.0
+2022.0,Wheat ,August,Rajkot ,Gujarat ,2341.0
+2022.0,Wheat ,September,Rajkot ,Gujarat ,2351.0
+2022.0,Wheat ,October,Rajkot ,Gujarat ,2413.0
+2022.0,Wheat ,November,Rajkot ,Gujarat ,2555.0
+2022.0,Wheat ,December,Rajkot ,Gujarat ,2611.0
+2023.0,Wheat ,January,Hyderabad ,Telangana ,2975.0
+2023.0,Wheat ,February,Hyderabad ,Telangana ,2950.0
+2023.0,Wheat ,March,Hyderabad ,Telangana ,2900.0
+2023.0,Wheat ,April,Hyderabad ,Telangana ,2775.0
+2023.0,Wheat ,May,Hyderabad ,Telangana ,2850.0
+2023.0,Wheat,June,Hyderabad ,Telangana ,3290.0
+2023.0,Wheat ,July,Hyderabad ,Telangana ,3350.0
+2023.0,Wheat ,August,Hyderabad ,Telangana ,3400.0
+2023.0,Wheat ,September,Hyderabad ,Telangana ,3500.0
+2023.0,Wheat ,October,Hyderabad ,Telangana ,3625.0
+2023.0,Wheat ,November,Hyderabad ,Telangana ,3250.0
+2023.0,Wheat ,December,Hyderabad ,Telangana ,3240.0
+2023.0,Wheat ,January,Kurnool ,Andhra Pradesh ,3150.0
+2023.0,Wheat ,February,Kurnool ,Andhra Pradesh ,3150.0
+2023.0,Wheat ,March,Kurnool ,Andhra Pradesh ,3090.0
+2023.0,Wheat ,April,Kurnool ,Andhra Pradesh ,3013.0
+2023.0,Wheat ,May,Kurnool ,Andhra Pradesh ,3075.0
+2023.0,Wheat ,June,Kurnool ,Andhra Pradesh ,3040.0
+2023.0,Wheat ,July,Kurnool ,Andhra Pradesh ,3188.0
+2023.0,Wheat ,August,Kurnool ,Andhra Pradesh ,3250.0
+2023.0,Wheat ,September,Kurnool ,Andhra Pradesh ,3190.0
+2023.0,Wheat ,October,Kurnool ,Andhra Pradesh ,3325.0
+2023.0,Wheat ,November,Kurnool ,Andhra Pradesh ,3400.0
+2023.0,Wheat ,December,Kurnool ,Andhra Pradesh ,3500.0
+2023.0,Wheat ,January,Patna ,Bihar ,3028.0
+2023.0,Wheat ,February,Patna ,Bihar ,3050.0
+2023.0,Wheat ,March,Patna ,Bihar ,2978.0
+2023.0,Wheat ,April,Patna ,Bihar ,2818.0
+2023.0,Wheat ,May,Patna ,Bihar ,2713.0
+2023.0,Wheat ,June,Patna ,Bihar ,2750.0
+2023.0,Wheat ,July,Patna ,Bihar ,2780.0
+2023.0,Wheat ,August,Patna ,Bihar ,2730.0
+2023.0,Wheat ,September,Patna ,Bihar ,2754.0
+2023.0,Wheat ,October,Patna ,Bihar ,2733.0
+2023.0,Wheat ,November,Patna ,Bihar ,2780.0
+2023.0,Wheat ,December,Patna ,Bihar ,2839.0
+2023.0,Wheat ,January,Sasaram ,Bihar ,2858.0
+2023.0,Wheat ,February,Sasaram ,Bihar ,2890.0
+2023.0,Wheat ,March,Sasaram ,Bihar ,2802.0
+2023.0,Wheat ,April,Sasaram ,Bihar ,2645.0
+2023.0,Wheat ,May,Sasaram ,Bihar ,2530.0
+2023.0,Wheat ,June,Sasaram ,Bihar ,2620.0
+2023.0,Wheat ,July,Sasaram ,Bihar ,2635.0
+2023.0,Wheat ,August,Sasaram ,Bihar ,2635.0
+2023.0,Wheat ,September,Sasaram ,Bihar ,2658.0
+2023.0,Wheat ,October,Sasaram ,Bihar ,2658.0
+2023.0,Wheat ,November,Sasaram ,Bihar ,2708.0
+2023.0,Wheat ,December,Sasaram ,Bihar ,2754.0
+2023.0,Wheat ,January,Dessa,Gujarat ,2669.0
+2023.0,Wheat ,February,Dessa,Gujarat ,2549.0
+2023.0,Wheat ,March,Dessa,Gujarat ,2376.0
+2023.0,Wheat ,April,Dessa,Gujarat ,2825.0
+2023.0,Wheat ,May,Dessa,Gujarat ,2284.0
+2023.0,Wheat ,June,Dessa,Gujarat ,2180.0
+2023.0,Wheat ,July,Dessa,Gujarat ,2200.0
+2023.0,Wheat ,August,Dessa,Gujarat ,2363.0
+2023.0,Wheat ,September,Dessa,Gujarat ,2440.0
+2023.0,Wheat ,October,Dessa,Gujarat ,2508.0
+2023.0,Wheat ,November,Dessa,Gujarat ,2644.0
+2023.0,Wheat ,December,Dessa,Gujarat ,2570.0
+2023.0,Wheat ,January,Rajkot ,Gujarat ,2773.0
+2023.0,Wheat ,February,Rajkot ,Gujarat ,2559.0
+2023.0,Wheat ,March,Rajkot ,Gujarat ,2182.0
+2023.0,Wheat ,April,Rajkot ,Gujarat ,2210.0
+2023.0,Wheat ,May,Rajkot ,Gujarat ,2219.0
+2023.0,Wheat ,June,Rajkot ,Gujarat ,2216.0
+2023.0,Wheat ,July,Rajkot ,Gujarat ,2285.0
+2023.0,Wheat ,August,Rajkot ,Gujarat ,2479.0
+2023.0,Wheat ,September,Rajkot ,Gujarat ,2498.0
+2023.0,Wheat ,October,Rajkot ,Gujarat ,2584.0
+2023.0,Wheat ,November,Rajkot ,Gujarat ,2751.0
+2023.0,Wheat ,December,Rajkot ,Gujarat ,2729.0
+2022.0,Wheat,January,Bhuj,Gujarat ,1925.0
+2022.0,Wheat,February,Bhuj,Gujarat ,1956.0
+2022.0,Wheat,March,Bhuj,Gujarat ,2256.0
+2022.0,Wheat,April,Bhuj,Gujarat ,2930.0
+2022.0,Wheat,May,Bhuj,Gujarat ,2531.0
+2022.0,Wheat,June,Bhuj,Gujarat ,2175.0
+2022.0,Wheat,July,Bhuj,Gujarat ,2105.0
+2022.0,Wheat,August,Bhuj,Gujarat ,2083.0
+2022.0,Wheat,September,Bhuj,Gujarat ,2159.0
+2022.0,Wheat,October,Bhuj,Gujarat ,2313.0
+2022.0,Wheat,November,Bhuj,Gujarat ,2300.0
+2022.0,Wheat,December,Bhuj,Gujarat ,2420.0
+2022.0,Wheat,January,Patan,Gujarat ,2085.0
+2022.0,Wheat,February,Patan,Gujarat ,2147.0
+2022.0,Wheat,March,Patan,Gujarat ,2208.0
+2022.0,Wheat,April,Patan,Gujarat ,2702.0
+2022.0,Wheat,May,Patan,Gujarat ,2550.0
+2022.0,Wheat,June,Patan,Gujarat ,2459.0
+2022.0,Wheat,July,Patan,Gujarat ,2281.0
+2022.0,Wheat,August,Patan,Gujarat ,2341.0
+2022.0,Wheat,September,Patan,Gujarat ,2339.0
+2022.0,Wheat,October,Patan,Gujarat ,2424.0
+2022.0,Wheat,November,Patan,Gujarat ,2653.0
+2022.0,Wheat,December,Patan,Gujarat ,2857.0
+2022.0,Wheat,January,Ambala ,Haryana,2015.0
+2022.0,Wheat,February,Ambala ,Haryana,2015.0
+2022.0,Wheat,March,Ambala ,Haryana,2015.0
+2022.0,Wheat,April,Ambala ,Haryana,2015.0
+2022.0,Wheat,May,Ambala ,Haryana,2015.0
+2022.0,Wheat,June,Ambala ,Haryana,2015.0
+2022.0,Wheat,July,Ambala ,Haryana,2032.0
+2022.0,Wheat,August,Ambala ,Haryana,2165.0
+2022.0,Wheat,September,Ambala ,Haryana,2232.0
+2022.0,Wheat,October,Ambala ,Haryana,2318.0
+2022.0,Wheat,November,Ambala ,Haryana,2290.0
+2022.0,Wheat,December,Ambala ,Haryana,2220.0
+2022.0,Wheat,January,Hissar,Haryana,2038.0
+2022.0,Wheat,February,Hissar,Haryana,2055.0
+2022.0,Wheat,March,Hissar,Haryana,2130.0
+2022.0,Wheat,April,Hissar,Haryana,2056.0
+2022.0,Wheat,May,Hissar,Haryana,2058.0
+2022.0,Wheat,June,Hissar,Haryana,1938.0
+2022.0,Wheat,July,Hissar,Haryana,2043.0
+2022.0,Wheat,August,Hissar,Haryana,2225.0
+2022.0,Wheat,September,Hissar,Haryana,2210.0
+2022.0,Wheat,October,Hissar,Haryana,2335.0
+2022.0,Wheat,November,Hissar,Haryana,2513.0
+2022.0,Wheat,December,Hissar,Haryana,2588.0
+2022.0,Wheat,January,Baramulla ,Jammu & Kashmir,2300.0
+2022.0,Wheat,February,Baramulla ,Jammu & Kashmir,2300.0
+2022.0,Wheat,March,Baramulla ,Jammu & Kashmir,2400.0
+2022.0,Wheat,April,Baramulla ,Jammu & Kashmir,2400.0
+2022.0,Wheat,May,Baramulla ,Jammu & Kashmir,2500.0
+2022.0,Wheat,June,Baramulla ,Jammu & Kashmir,2400.0
+2022.0,Wheat,July,Baramulla ,Jammu & Kashmir,2440.0
+2022.0,Wheat,August,Baramulla ,Jammu & Kashmir,2750.0
+2022.0,Wheat,September,Baramulla ,Jammu & Kashmir,2860.0
+2022.0,Wheat,October,Baramulla ,Jammu & Kashmir,3000.0
+2022.0,Wheat,November,Baramulla ,Jammu & Kashmir,3000.0
+2022.0,Wheat,December,Baramulla ,Jammu & Kashmir,3000.0
+2022.0,Wheat,January,Udhampur ,Jammu & Kashmir,2000.0
+2022.0,Wheat,February,Udhampur ,Jammu & Kashmir,2000.0
+2022.0,Wheat,March,Udhampur ,Jammu & Kashmir,2000.0
+2022.0,Wheat,April,Udhampur ,Jammu & Kashmir,2000.0
+2022.0,Wheat,May,Udhampur ,Jammu & Kashmir,2000.0
+2022.0,Wheat,June,Udhampur ,Jammu & Kashmir,2000.0
+2022.0,Wheat,July,Udhampur ,Jammu & Kashmir,2000.0
+2022.0,Wheat,August,Udhampur ,Jammu & Kashmir,2000.0
+2022.0,Wheat,September,Udhampur ,Jammu & Kashmir,2000.0
+2022.0,Wheat,October,Udhampur ,Jammu & Kashmir,2150.0
+2022.0,Wheat,November,Udhampur ,Jammu & Kashmir,2200.0
+2022.0,Wheat,December,Udhampur ,Jammu & Kashmir,2270.0
+2022.0,Wheat,January,Bhuj,Gujarat ,2700.0
+2023.0,Wheat,February,Bhuj,Gujarat ,2588.0
+2023.0,Wheat,March,Bhuj,Gujarat ,2245.0
+2023.0,Wheat,April,Bhuj,Gujarat ,2250.0
+2023.0,Wheat,May,Bhuj,Gujarat ,2270.0
+2023.0,Wheat,June,Bhuj,Gujarat ,2305.0
+2023.0,Wheat,July,Bhuj,Gujarat ,2231.0
+2023.0,Wheat,August,Bhuj,Gujarat ,2313.0
+2023.0,Wheat,September,Bhuj,Gujarat ,2335.0
+2023.0,Wheat,October,Bhuj,Gujarat ,2325.0
+2023.0,Wheat,November,Bhuj,Gujarat ,2550.0
+2023.0,Wheat,December,Bhuj,Gujarat ,2485.0
+2023.0,Wheat,January,Patan,Gujarat ,2867.0
+2023.0,Wheat,February,Patan,Gujarat ,2702.0
+2023.0,Wheat,March,Patan,Gujarat ,2380.0
+2023.0,Wheat,April,Patan,Gujarat ,2862.0
+2023.0,Wheat,May,Patan,Gujarat ,2771.0
+2023.0,Wheat,June,Patan,Gujarat ,2655.0
+2023.0,Wheat,July,Patan,Gujarat ,2295.0
+2023.0,Wheat,August,Patan,Gujarat ,2454.0
+2023.0,Wheat,September,Patan,Gujarat ,2497.0
+2023.0,Wheat,October,Patan,Gujarat ,2603.0
+2023.0,Wheat,November,Patan,Gujarat ,2766.0
+2023.0,Wheat,December,Patan,Gujarat ,2706.0
+2023.0,Wheat,January,Ambala ,Haryana,2403.0
+2023.0,Wheat,February,Ambala ,Haryana,2373.0
+2023.0,Wheat,March,Ambala ,Haryana,2345.0
+2023.0,Wheat,April,Ambala ,Haryana,2173.0
+2023.0,Wheat,May,Ambala ,Haryana,2228.0
+2023.0,Wheat,June,Ambala ,Haryana,2286.0
+2023.0,Wheat,July,Ambala ,Haryana,2343.0
+2023.0,Wheat,August,Ambala ,Haryana,2360.0
+2023.0,Wheat,September,Ambala ,Haryana,2370.0
+2023.0,Wheat,October,Ambala ,Haryana,2533.0
+2023.0,Wheat,November,Ambala ,Haryana,2473.0
+2023.0,Wheat,December,Ambala ,Haryana,2345.0
+2023.0,Wheat,January,Hissar,Haryana,2638.0
+2023.0,Wheat,February,Hissar,Haryana,2375.0
+2023.0,Wheat,March,Hissar,Haryana,2164.0
+2023.0,Wheat,April,Hissar,Haryana,2124.0
+2023.0,Wheat,May,Hissar,Haryana,2136.0
+2023.0,Wheat,June,Hissar,Haryana,2194.0
+2023.0,Wheat,July,Hissar,Haryana,2163.0
+2023.0,Wheat,August,Hissar,Haryana,2240.0
+2023.0,Wheat,September,Hissar,Haryana,2260.0
+2023.0,Wheat,October,Hissar,Haryana,2413.0
+2023.0,Wheat,November,Hissar,Haryana,2438.0
+2023.0,Wheat,December,Hissar,Haryana,2402.0
+2023.0,Wheat,January,Baramulla ,Jammu & Kashmir,3100.0
+2023.0,Wheat,February,Baramulla ,Jammu & Kashmir,2900.0
+2023.0,Wheat,March,Baramulla ,Jammu & Kashmir,2900.0
+2023.0,Wheat,April,Baramulla ,Jammu & Kashmir,2800.0
+2023.0,Wheat,May,Baramulla ,Jammu & Kashmir,2800.0
+2023.0,Wheat,June,Baramulla ,Jammu & Kashmir,2800.0
+2023.0,Wheat,July,Baramulla ,Jammu & Kashmir,2900.0
+2023.0,Wheat,August,Baramulla ,Jammu & Kashmir,2900.0
+2023.0,Wheat,September,Baramulla ,Jammu & Kashmir,2900.0
+2023.0,Wheat,October,Baramulla ,Jammu & Kashmir,2900.0
+2023.0,Wheat,November,Baramulla ,Jammu & Kashmir,2900.0
+2023.0,Wheat,December,Baramulla ,Jammu & Kashmir,2900.0
+2023.0,Wheat,January,Udhampur ,Jammu & Kashmir,2400.0
+2023.0,Wheat,February,Udhampur ,Jammu & Kashmir,2375.0
+2023.0,Wheat,March,Udhampur ,Jammu & Kashmir,2200.0
+2023.0,Wheat,April,Udhampur ,Jammu & Kashmir,2200.0
+2023.0,Wheat,May,Udhampur ,Jammu & Kashmir,2200.0
+2023.0,Wheat,June,Udhampur ,Jammu & Kashmir,2200.0
+2023.0,Wheat,July,Udhampur ,Jammu & Kashmir,2200.0
+2023.0,Wheat,August,Udhampur ,Jammu & Kashmir,2200.0
+2023.0,Wheat,September,Udhampur ,Jammu & Kashmir,2200.0
+2023.0,Wheat,October,Udhampur ,Jammu & Kashmir,2200.0
+2023.0,Wheat,November,Udhampur ,Jammu & Kashmir,2200.0
+2023.0,Wheat,December,Udhampur ,Jammu & Kashmir,2200.0
+2022.0,Wheat,January,Bengaluru ,Karnataka ,2813.0
+2022.0,Wheat,February,Bengaluru ,Karnataka ,2600.0
+2022.0,Wheat,March,Bengaluru ,Karnataka ,3163.0
+2022.0,Wheat,April,Bengaluru ,Karnataka ,2850.0
+2022.0,Wheat,May,Bengaluru ,Karnataka ,3288.0
+2022.0,Wheat,June,Bengaluru ,Karnataka ,3094.0
+2022.0,Wheat,July,Bengaluru ,Karnataka ,3100.0
+2022.0,Wheat,August,Bengaluru ,Karnataka ,3325.0
+2022.0,Wheat,September,Bengaluru ,Karnataka ,3330.0
+2022.0,Wheat,October,Bengaluru ,Karnataka ,3663.0
+2022.0,Wheat,November,Bengaluru ,Karnataka ,3575.0
+2022.0,Wheat,December,Bengaluru ,Karnataka ,3690.0
+2022.0,Wheat,January,Bijapur ,Karnataka ,3300.0
+2022.0,Wheat,February,Bijapur ,Karnataka ,3300.0
+2022.0,Wheat,March,Bijapur ,Karnataka ,3300.0
+2022.0,Wheat,April,Bijapur ,Karnataka ,3150.0
+2022.0,Wheat,May,Bijapur ,Karnataka ,3163.0
+2022.0,Wheat,June,Bijapur ,Karnataka ,2800.0
+2022.0,Wheat,July,Bijapur ,Karnataka ,2373.0
+2022.0,Wheat,August,Bijapur ,Karnataka ,2275.0
+2022.0,Wheat,September,Bijapur ,Karnataka ,2515.0
+2022.0,Wheat,October,Bijapur ,Karnataka ,2500.0
+2022.0,Wheat,November,Bijapur ,Karnataka ,2688.0
+2022.0,Wheat,December,Bijapur ,Karnataka ,2742.0
+2022.0,Wheat,January,Harda,Madhyapradesh ,1972.0
+2022.0,Wheat,February,Harda,Madhyapradesh ,1958.0
+2022.0,Wheat,March,Harda,Madhyapradesh ,2105.0
+2022.0,Wheat,April,Harda,Madhyapradesh ,2070.0
+2022.0,Wheat,May,Harda,Madhyapradesh ,2036.0
+2022.0,Wheat,June,Harda,Madhyapradesh ,1987.0
+2022.0,Wheat,July,Harda,Madhyapradesh ,2143.0
+2022.0,Wheat,August,Harda,Madhyapradesh ,2304.0
+2022.0,Wheat,September,Harda,Madhyapradesh ,2280.0
+2022.0,Wheat,October,Harda,Madhyapradesh ,2362.0
+2022.0,Wheat,November,Harda,Madhyapradesh ,2495.0
+2022.0,Wheat,December,Harda,Madhyapradesh ,2597.0
+2022.0,Wheat,January,Tikamgarh ,Madhyapradesh ,1906.0
+2022.0,Wheat,February,Tikamgarh ,Madhyapradesh ,1917.0
+2022.0,Wheat,March,Tikamgarh ,Madhyapradesh ,2079.0
+2022.0,Wheat,April,Tikamgarh ,Madhyapradesh ,2015.0
+2022.0,Wheat,May,Tikamgarh ,Madhyapradesh ,2053.0
+2022.0,Wheat,June,Tikamgarh ,Madhyapradesh ,1975.0
+2022.0,Wheat,July,Tikamgarh ,Madhyapradesh ,2095.0
+2022.0,Wheat,August,Tikamgarh ,Madhyapradesh ,2295.0
+2022.0,Wheat,September,Tikamgarh ,Madhyapradesh ,2235.0
+2022.0,Wheat,October,Tikamgarh ,Madhyapradesh ,2283.0
+2022.0,Wheat,November,Tikamgarh ,Madhyapradesh ,2463.0
+2022.0,Wheat,December,Tikamgarh ,Madhyapradesh ,2549.0
+2022.0,Wheat,January,Jalna,Maharashtra ,1938.0
+2022.0,Wheat,February,Jalna,Maharashtra ,1988.0
+2022.0,Wheat,March,Jalna,Maharashtra ,2213.0
+2022.0,Wheat,April,Jalna,Maharashtra ,2310.0
+2022.0,Wheat,May,Jalna,Maharashtra ,2350.0
+2022.0,Wheat,June,Jalna,Maharashtra ,2300.0
+2022.0,Wheat,July,Jalna,Maharashtra ,2300.0
+2022.0,Wheat,August,Jalna,Maharashtra ,2438.0
+2022.0,Wheat,September,Jalna,Maharashtra ,2390.0
+2022.0,Wheat,October,Jalna,Maharashtra ,2438.0
+2022.0,Wheat,November,Jalna,Maharashtra ,2650.0
+2022.0,Wheat,December,Jalna,Maharashtra ,2740.0
+2022.0,Wheat,January,Pachora,Maharashtra ,1988.0
+2022.0,Wheat,February,Pachora,Maharashtra ,1950.0
+2022.0,Wheat,March,Pachora,Maharashtra ,2288.0
+2022.0,Wheat,April,Pachora,Maharashtra ,2240.0
+2022.0,Wheat,May,Pachora,Maharashtra ,2250.0
+2022.0,Wheat,June,Pachora,Maharashtra ,2100.0
+2022.0,Wheat,July,Pachora,Maharashtra ,2100.0
+2022.0,Wheat,August,Pachora,Maharashtra ,2275.0
+2022.0,Wheat,September,Pachora,Maharashtra ,2360.0
+2022.0,Wheat,October,Pachora,Maharashtra ,2513.0
+2022.0,Wheat,November,Pachora,Maharashtra ,2600.0
+2022.0,Wheat,December,Pachora,Maharashtra ,2570.0
+2023.0,Wheat,January,Bengaluru ,Karnataka ,3906.0
+2023.0,Wheat,February,Bengaluru ,Karnataka ,3800.0
+2023.0,Wheat,March,Bengaluru ,Karnataka ,3620.0
+2023.0,Wheat,April,Bengaluru ,Karnataka ,3225.0
+2023.0,Wheat,May,Bengaluru ,Karnataka ,3088.0
+2023.0,Wheat,June,Bengaluru ,Karnataka ,3380.0
+2023.0,Wheat,July,Bengaluru ,Karnataka ,3300.0
+2023.0,Wheat,August,Bengaluru ,Karnataka ,3700.0
+2023.0,Wheat,September,Bengaluru ,Karnataka ,4040.0
+2023.0,Wheat,October,Bengaluru ,Karnataka ,4125.0
+2023.0,Wheat,November,Bengaluru ,Karnataka ,4138.0
+2023.0,Wheat,December,Bengaluru ,Karnataka ,4070.0
+2023.0,Wheat,January,Bijapur ,Karnataka ,3000.0
+2023.0,Wheat,February,Bijapur ,Karnataka ,2968.0
+2023.0,Wheat,March,Bijapur ,Karnataka ,2863.0
+2023.0,Wheat,April,Bijapur ,Karnataka ,2928.0
+2023.0,Wheat,May,Bijapur ,Karnataka ,2872.0
+2023.0,Wheat,June,Bijapur ,Karnataka ,2762.0
+2023.0,Wheat,July,Bijapur ,Karnataka ,3085.0
+2023.0,Wheat,August,Bijapur ,Karnataka ,2931.0
+2023.0,Wheat,September,Bijapur ,Karnataka ,2700.0
+2023.0,Wheat,October,Bijapur ,Karnataka ,2850.0
+2023.0,Wheat,November,Bijapur ,Karnataka ,2983.0
+2023.0,Wheat,December,Bijapur ,Karnataka ,3156.0
+2023.0,Wheat,January,Harda,Madhyapradesh ,2711.0
+2023.0,Wheat,February,Harda,Madhyapradesh ,2366.0
+2023.0,Wheat,March,Harda,Madhyapradesh ,2132.0
+2023.0,Wheat,April,Harda,Madhyapradesh ,2095.0
+2023.0,Wheat,May,Harda,Madhyapradesh ,2175.0
+2023.0,Wheat,June,Harda,Madhyapradesh ,2263.0
+2023.0,Wheat,July,Harda,Madhyapradesh ,2269.0
+2023.0,Wheat,August,Harda,Madhyapradesh ,2401.0
+2023.0,Wheat,September,Harda,Madhyapradesh ,2468.0
+2023.0,Wheat,October,Harda,Madhyapradesh ,2489.0
+2023.0,Wheat,November,Harda,Madhyapradesh ,2564.0
+2023.0,Wheat,December,Harda,Madhyapradesh ,2515.0
+2023.0,Wheat,January,Tikamgarh ,Madhyapradesh ,2704.0
+2023.0,Wheat,February,Tikamgarh ,Madhyapradesh ,2286.0
+2023.0,Wheat,March,Tikamgarh ,Madhyapradesh ,2094.0
+2023.0,Wheat,April,Tikamgarh ,Madhyapradesh ,2101.0
+2023.0,Wheat,May,Tikamgarh ,Madhyapradesh ,2170.0
+2023.0,Wheat,June,Tikamgarh ,Madhyapradesh ,2181.0
+2023.0,Wheat,July,Tikamgarh ,Madhyapradesh ,2230.0
+2023.0,Wheat,August,Tikamgarh ,Madhyapradesh ,2370.0
+2023.0,Wheat,September,Tikamgarh ,Madhyapradesh ,2375.0
+2023.0,Wheat,October,Tikamgarh ,Madhyapradesh ,2398.0
+2023.0,Wheat,November,Tikamgarh ,Madhyapradesh ,2449.0
+2023.0,Wheat,December,Tikamgarh ,Madhyapradesh ,2451.0
+2023.0,Wheat,January,Jalna,Maharashtra ,2800.0
+2023.0,Wheat,February,Jalna,Maharashtra ,2588.0
+2023.0,Wheat,March,Jalna,Maharashtra ,2310.0
+2023.0,Wheat,April,Jalna,Maharashtra ,2400.0
+2023.0,Wheat,May,Jalna,Maharashtra ,2288.0
+2023.0,Wheat,June,Jalna,Maharashtra ,2315.0
+2023.0,Wheat,July,Jalna,Maharashtra ,2388.0
+2023.0,Wheat,August,Jalna,Maharashtra ,2481.0
+2023.0,Wheat,September,Jalna,Maharashtra ,2511.0
+2023.0,Wheat,October,Jalna,Maharashtra ,2563.0
+2023.0,Wheat,November,Jalna,Maharashtra ,2706.0
+2023.0,Wheat,December,Jalna,Maharashtra ,2661.0
+2023.0,Wheat,January,Pachora,Maharashtra ,2725.0
+2023.0,Wheat,February,Pachora,Maharashtra ,2563.0
+2023.0,Wheat,March,Pachora,Maharashtra ,2230.0
+2023.0,Wheat,April,Pachora,Maharashtra ,2263.0
+2023.0,Wheat,May,Pachora,Maharashtra ,2225.0
+2023.0,Wheat,June,Pachora,Maharashtra ,2270.0
+2023.0,Wheat,July,Pachora,Maharashtra ,2253.0
+2023.0,Wheat,August,Pachora,Maharashtra ,2358.0
+2023.0,Wheat,September,Pachora,Maharashtra ,2435.0
+2023.0,Wheat,October,Pachora,Maharashtra ,2368.0
+2023.0,Wheat,November,Pachora,Maharashtra ,2525.0
+2023.0,Wheat,December,Pachora,Maharashtra ,2706.0
+2022.0,Wheat,January,Delhi,Delhi,2100.0
+2022.0,Wheat,February,Delhi,Delhi,2100.0
+2022.0,Wheat,March,Delhi,Delhi,2100.0
+2022.0,Wheat,April,Delhi,Delhi,2140.0
+2022.0,Wheat,May,Delhi,Delhi,2113.0
+2022.0,Wheat,June,Delhi,Delhi,2113.0
+2022.0,Wheat,July,Delhi,Delhi,2170.0
+2022.0,Wheat,August,Delhi,Delhi,2200.0
+2022.0,Wheat,September,Delhi,Delhi,2240.0
+2022.0,Wheat,October,Delhi,Delhi,2269.0
+2022.0,Wheat,November,Delhi,Delhi,2278.0
+2022.0,Wheat,December,Delhi,Delhi,2280.0
+2022.0,Wheat,January,Bhubaneswar ,Odisha ,2600.0
+2022.0,Wheat,February,Bhubaneswar ,Odisha ,2600.0
+2022.0,Wheat,March,Bhubaneswar ,Odisha ,2600.0
+2022.0,Wheat,April,Bhubaneswar ,Odisha ,2600.0
+2022.0,Wheat,May,Bhubaneswar ,Odisha ,2600.0
+2022.0,Wheat,June,Bhubaneswar ,Odisha ,2600.0
+2022.0,Wheat,July,Bhubaneswar ,Odisha ,2600.0
+2022.0,Wheat,August,Bhubaneswar ,Odisha ,2600.0
+2022.0,Wheat,September,Bhubaneswar ,Odisha ,2600.0
+2022.0,Wheat,October,Bhubaneswar ,Odisha ,2600.0
+2022.0,Wheat,November,Bhubaneswar ,Odisha ,2625.0
+2022.0,Wheat,December,Bhubaneswar ,Odisha ,2700.0
+2022.0,Wheat,January,Amritsar ,Punjab,2098.0
+2022.0,Wheat,February,Amritsar ,Punjab,2241.0
+2022.0,Wheat,March,Amritsar ,Punjab,2353.0
+2022.0,Wheat,April,Amritsar ,Punjab,2090.0
+2022.0,Wheat,May,Amritsar ,Punjab,2020.0
+2022.0,Wheat,June,Amritsar ,Punjab,2020.0
+2022.0,Wheat,July,Amritsar ,Punjab,2020.0
+2022.0,Wheat,August,Amritsar ,Punjab,2220.0
+2022.0,Wheat,September,Amritsar ,Punjab,2275.0
+2022.0,Wheat,October,Amritsar ,Punjab,2275.0
+2022.0,Wheat,November,Amritsar ,Punjab,2275.0
+2022.0,Wheat,December,Amritsar ,Punjab,2275.0
+2022.0,Wheat,January,Jaipur,Rajasthan ,2204.0
+2022.0,Wheat,February,Jaipur,Rajasthan ,2204.0
+2022.0,Wheat,March,Jaipur,Rajasthan ,2308.0
+2022.0,Wheat,April,Jaipur,Rajasthan ,2355.0
+2022.0,Wheat,May,Jaipur,Rajasthan ,2613.0
+2022.0,Wheat,June,Jaipur,Rajasthan ,2556.0
+2022.0,Wheat,July,Jaipur,Rajasthan ,2482.0
+2022.0,Wheat,August,Jaipur,Rajasthan ,2456.0
+2022.0,Wheat,September,Jaipur,Rajasthan ,2491.0
+2022.0,Wheat,October,Jaipur,Rajasthan ,2463.0
+2022.0,Wheat,November,Jaipur,Rajasthan ,2519.0
+2022.0,Wheat,December,Jaipur,Rajasthan ,2598.0
+2022.0,Wheat,January,Udaipur ,Rajasthan ,1953.0
+2022.0,Wheat,February,Udaipur ,Rajasthan ,1988.0
+2022.0,Wheat,March,Udaipur ,Rajasthan ,2025.0
+2022.0,Wheat,April,Udaipur ,Rajasthan ,2097.0
+2022.0,Wheat,May,Udaipur ,Rajasthan ,2143.0
+2022.0,Wheat,June,Udaipur ,Rajasthan ,2148.0
+2022.0,Wheat,July,Udaipur ,Rajasthan ,2164.0
+2022.0,Wheat,August,Udaipur ,Rajasthan ,2190.0
+2022.0,Wheat,September,Udaipur ,Rajasthan ,2202.0
+2022.0,Wheat,October,Udaipur ,Rajasthan ,2155.0
+2022.0,Wheat,November,Udaipur ,Rajasthan ,2409.0
+2022.0,Wheat,December,Udaipur ,Rajasthan ,2472.0
+2022.0,Wheat,January,Chennai ,Tamilnadu ,3488.0
+2022.0,Wheat,February,Chennai ,Tamilnadu ,3475.0
+2022.0,Wheat,March,Chennai ,Tamilnadu ,3475.0
+2022.0,Wheat,April,Chennai ,Tamilnadu ,3530.0
+2022.0,Wheat,May,Chennai ,Tamilnadu ,3638.0
+2022.0,Wheat,June,Chennai ,Tamilnadu ,3525.0
+2022.0,Wheat,July,Chennai ,Tamilnadu ,3620.0
+2022.0,Wheat,August,Chennai ,Tamilnadu ,3375.0
+2022.0,Wheat,September,Chennai ,Tamilnadu ,3500.0
+2022.0,Wheat,October,Chennai ,Tamilnadu ,3450.0
+2022.0,Wheat,November,Chennai ,Tamilnadu ,3575.0
+2022.0,Wheat,December,Chennai ,Tamilnadu ,3860.0
+2023.0,Wheat,January,Delhi,Delhi,2300.0
+2023.0,Wheat,February,Delhi,Delhi,2365.0
+2023.0,Wheat,March,Delhi,Delhi,2360.0
+2023.0,Wheat,April,Delhi,Delhi,2390.0
+2023.0,Wheat,May,Delhi,Delhi,2373.0
+2023.0,Wheat,June,Delhi,Delhi,2360.0
+2023.0,Wheat,July,Delhi,Delhi,2403.0
+2023.0,Wheat,August,Delhi,Delhi,2488.0
+2023.0,Wheat,September,Delhi,Delhi,2382.0
+2023.0,Wheat,October,Delhi,Delhi,2375.0
+2023.0,Wheat,November,Delhi,Delhi,2495.0
+2023.0,Wheat,December,Delhi,Delhi,2512.0
+2023.0,Wheat,January,Bhubaneswar ,Odisha ,2800.0
+2023.0,Wheat,February,Bhubaneswar ,Odisha ,3000.0
+2023.0,Wheat,March,Bhubaneswar ,Odisha ,3000.0
+2023.0,Wheat,April,Bhubaneswar ,Odisha ,295.0
+2023.0,Wheat,May,Bhubaneswar ,Odisha ,2925.0
+2023.0,Wheat,June,Bhubaneswar ,Odisha ,3000.0
+2023.0,Wheat,July,Bhubaneswar ,Odisha ,3000.0
+2023.0,Wheat,August,Bhubaneswar ,Odisha ,3000.0
+2023.0,Wheat,September,Bhubaneswar ,Odisha ,3000.0
+2023.0,Wheat,October,Bhubaneswar ,Odisha ,3000.0
+2023.0,Wheat,November,Bhubaneswar ,Odisha ,3000.0
+2023.0,Wheat,December,Bhubaneswar ,Odisha ,3000.0
+2023.0,Wheat,January,Amritsar ,Punjab,2125.0
+2023.0,Wheat,February,Amritsar ,Punjab,2125.0
+2023.0,Wheat,March,Amritsar ,Punjab,2125.0
+2023.0,Wheat,April,Amritsar ,Punjab,2125.0
+2023.0,Wheat,May,Amritsar ,Punjab,2119.0
+2023.0,Wheat,June,Amritsar ,Punjab,2080.0
+2023.0,Wheat,July,Amritsar ,Punjab,2025.0
+2023.0,Wheat,August,Amritsar ,Punjab,2025.0
+2023.0,Wheat,September,Amritsar ,Punjab,2025.0
+2023.0,Wheat,October,Amritsar ,Punjab,2025.0
+2023.0,Wheat,November,Amritsar ,Punjab,2025.0
+2023.0,Wheat,December,Amritsar ,Punjab,2025.0
+2023.0,Wheat,January,Jaipur,Rajasthan ,2728.0
+2023.0,Wheat,February,Jaipur,Rajasthan ,2700.0
+2023.0,Wheat,March,Jaipur,Rajasthan ,2573.0
+2023.0,Wheat,April,Jaipur,Rajasthan ,2456.0
+2023.0,Wheat,May,Jaipur,Rajasthan ,2425.0
+2023.0,Wheat,June,Jaipur,Rajasthan ,2469.0
+2023.0,Wheat,July,Jaipur,Rajasthan ,2438.0
+2023.0,Wheat,August,Jaipur,Rajasthan ,2583.0
+2023.0,Wheat,September,Jaipur,Rajasthan ,2530.0
+2023.0,Wheat,October,Jaipur,Rajasthan ,2576.0
+2023.0,Wheat,November,Jaipur,Rajasthan ,2561.0
+2023.0,Wheat,December,Jaipur,Rajasthan ,2525.0
+2023.0,Wheat,January,Udaipur ,Rajasthan ,2588.0
+2023.0,Wheat,February,Udaipur ,Rajasthan ,2450.0
+2023.0,Wheat,March,Udaipur ,Rajasthan ,2303.0
+2023.0,Wheat,April,Udaipur ,Rajasthan ,2240.0
+2023.0,Wheat,May,Udaipur ,Rajasthan ,2140.0
+2023.0,Wheat,June,Udaipur ,Rajasthan ,2071.0
+2023.0,Wheat,July,Udaipur ,Rajasthan ,2150.0
+2023.0,Wheat,August,Udaipur ,Rajasthan ,2189.0
+2023.0,Wheat,September,Udaipur ,Rajasthan ,2096.0
+2023.0,Wheat,October,Udaipur ,Rajasthan ,2079.0
+2023.0,Wheat,November,Udaipur ,Rajasthan ,2091.0
+2023.0,Wheat,December,Udaipur ,Rajasthan ,2310.0
+2023.0,Wheat,January,Chennai ,Tamilnadu ,4150.0
+2023.0,Wheat,February,Chennai ,Tamilnadu ,4000.0
+2023.0,Wheat,March,Chennai ,Tamilnadu ,3720.0
+2023.0,Wheat,April,Chennai ,Tamilnadu ,3675.0
+2023.0,Wheat,May,Chennai ,Tamilnadu ,3113.0
+2023.0,Wheat,June,Chennai ,Tamilnadu ,3580.0
+2023.0,Wheat,July,Chennai ,Tamilnadu ,3675.0
+2023.0,Wheat,August,Chennai ,Tamilnadu ,4050.0
+2023.0,Wheat,September,Chennai ,Tamilnadu ,4120.0
+2023.0,Wheat,October,Chennai ,Tamilnadu ,4075.0
+2023.0,Wheat,November,Chennai ,Tamilnadu ,4275.0
+2023.0,Wheat,December,Chennai ,Tamilnadu ,4280.0
+2022.0,Wheat,January,Agra,Uttarpradesh ,1980.0
+2022.0,Wheat,February,Agra,Uttarpradesh ,2021.0
+2022.0,Wheat,March,Agra,Uttarpradesh ,2100.0
+2022.0,Wheat,April,Agra,Uttarpradesh ,2063.0
+2022.0,Wheat,May,Agra,Uttarpradesh ,2148.0
+2022.0,Wheat,June,Agra,Uttarpradesh ,2089.0
+2022.0,Wheat,July,Agra,Uttarpradesh ,2112.0
+2022.0,Wheat,August,Agra,Uttarpradesh ,2304.0
+2022.0,Wheat,September,Agra,Uttarpradesh ,2337.0
+2022.0,Wheat,October,Agra,Uttarpradesh ,2395.0
+2022.0,Wheat,November,Agra,Uttarpradesh ,2509.0
+2022.0,Wheat,December,Agra,Uttarpradesh ,2680.0
+2022.0,Wheat,January,Kanpur ,Uttarpradesh ,1939.0
+2022.0,Wheat,February,Kanpur ,Uttarpradesh ,1956.0
+2022.0,Wheat,March,Kanpur ,Uttarpradesh ,1975.0
+2022.0,Wheat,April,Kanpur ,Uttarpradesh ,2025.0
+2022.0,Wheat,May,Kanpur ,Uttarpradesh ,2048.0
+2022.0,Wheat,June,Kanpur ,Uttarpradesh ,2029.0
+2022.0,Wheat,July,Kanpur ,Uttarpradesh ,2049.0
+2022.0,Wheat,August,Kanpur ,Uttarpradesh ,2213.0
+2022.0,Wheat,September,Kanpur ,Uttarpradesh ,2336.0
+2022.0,Wheat,October,Kanpur ,Uttarpradesh ,2363.0
+2022.0,Wheat,November,Kanpur ,Uttarpradesh ,2450.0
+2022.0,Wheat,December,Kanpur ,Uttarpradesh ,2634.0
+2022.0,Wheat,January,Asansol ,West Bengal ,2125.0
+2022.0,Wheat,February,Asansol ,West Bengal ,2050.0
+2022.0,Wheat,March,Asansol ,West Bengal ,2075.0
+2022.0,Wheat,April,Asansol ,West Bengal ,2110.0
+2022.0,Wheat,May,Asansol ,West Bengal ,2100.0
+2022.0,Wheat,June,Asansol ,West Bengal ,2100.0
+2022.0,Wheat,July,Asansol ,West Bengal ,2150.0
+2022.0,Wheat,August,Asansol ,West Bengal ,2255.0
+2022.0,Wheat,September,Asansol ,West Bengal ,2356.0
+2022.0,Wheat,October,Asansol ,West Bengal ,2383.0
+2022.0,Wheat,November,Asansol ,West Bengal ,2470.0
+2022.0,Wheat,December,Asansol ,West Bengal ,2580.0
+2022.0,Wheat,January,Indus,West Bengal ,2090.0
+2022.0,Wheat,February,Indus,West Bengal ,2093.0
+2022.0,Wheat,March,Indus,West Bengal ,2100.0
+2022.0,Wheat,April,Indus,West Bengal ,2100.0
+2022.0,Wheat,May,Indus,West Bengal ,2100.0
+2022.0,Wheat,June,Indus,West Bengal ,2100.0
+2022.0,Wheat,July,Indus,West Bengal ,2150.0
+2022.0,Wheat,August,Indus,West Bengal ,2158.0
+2022.0,Wheat,September,Indus,West Bengal ,2188.0
+2022.0,Wheat,October,Indus,West Bengal ,2200.0
+2022.0,Wheat,November,Indus,West Bengal ,2250.0
+2022.0,Wheat,December,Indus,West Bengal ,2310.0
+2023.0,Wheat,January,Agra,Uttarpradesh ,2769.0
+2023.0,Wheat,February,Agra,Uttarpradesh ,2735.0
+2023.0,Wheat,March,Agra,Uttarpradesh ,2351.0
+2023.0,Wheat,April,Agra,Uttarpradesh ,2201.0
+2023.0,Wheat,May,Agra,Uttarpradesh ,2208.0
+2023.0,Wheat,June,Agra,Uttarpradesh ,2330.0
+2023.0,Wheat,July,Agra,Uttarpradesh ,2365.0
+2023.0,Wheat,August,Agra,Uttarpradesh ,2356.0
+2023.0,Wheat,September,Agra,Uttarpradesh ,2337.0
+2023.0,Wheat,October,Agra,Uttarpradesh ,2376.0
+2023.0,Wheat,November,Agra,Uttarpradesh ,2460.0
+2023.0,Wheat,December,Agra,Uttarpradesh ,2484.0
+2023.0,Wheat,January,Kanpur ,Uttarpradesh ,2785.0
+2023.0,Wheat,February,Kanpur ,Uttarpradesh ,2681.0
+2023.0,Wheat,March,Kanpur ,Uttarpradesh ,2263.0
+2023.0,Wheat,April,Kanpur ,Uttarpradesh ,2186.0
+2023.0,Wheat,May,Kanpur ,Uttarpradesh ,2245.0
+2023.0,Wheat,June,Kanpur ,Uttarpradesh ,2341.0
+2023.0,Wheat,July,Kanpur ,Uttarpradesh ,2326.0
+2023.0,Wheat,August,Kanpur ,Uttarpradesh ,2355.0
+2023.0,Wheat,September,Kanpur ,Uttarpradesh ,2347.0
+2023.0,Wheat,October,Kanpur ,Uttarpradesh ,2375.0
+2023.0,Wheat,November,Kanpur ,Uttarpradesh ,2475.0
+2023.0,Wheat,December,Kanpur ,Uttarpradesh ,2530.0
+2023.0,Wheat,January,Asansol ,West Bengal ,2650.0
+2023.0,Wheat,February,Asansol ,West Bengal ,2673.0
+2023.0,Wheat,March,Asansol ,West Bengal ,2680.0
+2023.0,Wheat,April,Asansol ,West Bengal ,2680.0
+2023.0,Wheat,May,Asansol ,West Bengal ,2680.0
+2023.0,Wheat,June,Asansol ,West Bengal ,2680.0
+2023.0,Wheat,July,Asansol ,West Bengal ,2680.0
+2023.0,Wheat,August,Asansol ,West Bengal ,2615.0
+2023.0,Wheat,September,Asansol ,West Bengal ,2470.0
+2023.0,Wheat,October,Asansol ,West Bengal ,2450.0
+2023.0,Wheat,November,Asansol ,West Bengal ,2488.0
+2023.0,Wheat,December,Asansol ,West Bengal ,2500.0
+2023.0,Wheat,January,Indus,West Bengal ,2400.0
+2023.0,Wheat,February,Indus,West Bengal ,2588.0
+2023.0,Wheat,March,Indus,West Bengal ,2510.0
+2023.0,Wheat,April,Indus,West Bengal ,2600.0
+2023.0,Wheat,May,Indus,West Bengal ,2550.0
+2023.0,Wheat,June,Indus,West Bengal ,2668.0
+2023.0,Wheat,July,Indus,West Bengal ,2713.0
+2023.0,Wheat,August,Indus,West Bengal ,2825.0
+2023.0,Wheat,September,Indus,West Bengal ,2910.0
+2023.0,Wheat,October,Indus,West Bengal ,2938.0
+2023.0,Wheat,November,Indus,West Bengal ,2950.0
+2023.0,Wheat,December,Indus,West Bengal ,2860.0
+2022.0,Barley,January,Muzaffarpur ,Bihar,2758.0
+2022.0,Barley,February,Muzaffarpur ,Bihar,2750.0
+2022.0,Barley,March,Muzaffarpur ,Bihar,2765.0
+2022.0,Barley,April,Muzaffarpur ,Bihar,2796.0
+2022.0,Barley,May,Muzaffarpur ,Bihar,2828.0
+2022.0,Barley,June,Muzaffarpur ,Bihar,2843.0
+2022.0,Barley,July,Muzaffarpur ,Bihar,2832.0
+2022.0,Barley,August,Muzaffarpur ,Bihar,2900.0
+2022.0,Barley,September,Muzaffarpur ,Bihar,2884.0
+2022.0,Barley,October,Muzaffarpur ,Bihar,2863.0
+2022.0,Barley,November,Muzaffarpur ,Bihar,2848.0
+2022.0,Barley,December,Muzaffarpur ,Bihar,2794.0
+2022.0,Barley,January,Bhopal ,Madhyapradesh ,3275.0
+2022.0,Barley,February,Bhopal ,Madhyapradesh ,3100.0
+2022.0,Barley,March,Bhopal ,Madhyapradesh ,2925.0
+2022.0,Barley,April,Bhopal ,Madhyapradesh ,2540.0
+2022.0,Barley,May,Bhopal ,Madhyapradesh ,2625.0
+2022.0,Barley,June,Bhopal ,Madhyapradesh ,2713.0
+2022.0,Barley,July,Bhopal ,Madhyapradesh ,2900.0
+2022.0,Barley,August,Bhopal ,Madhyapradesh ,2750.0
+2022.0,Barley,September,Bhopal ,Madhyapradesh ,2234.0
+2022.0,Barley,October,Bhopal ,Madhyapradesh ,2209.0
+2022.0,Barley,November,Bhopal ,Madhyapradesh ,2223.0
+2022.0,Barley,December,Bhopal ,Madhyapradesh ,2206.0
+2022.0,Barley,January,Hissar,Haryana,2275.0
+2022.0,Barley,February,Hissar,Haryana,2345.0
+2022.0,Barley,March,Hissar,Haryana,2083.0
+2022.0,Barley,April,Hissar,Haryana,2788.0
+2022.0,Barley,May,Hissar,Haryana,2793.0
+2022.0,Barley,June,Hissar,Haryana,2682.0
+2022.0,Barley,July,Hissar,Haryana,2502.0
+2022.0,Barley,August,Hissar,Haryana,2445.0
+2022.0,Barley,September,Hissar,Haryana,2506.0
+2022.0,Barley,October,Hissar,Haryana,2668.0
+2022.0,Barley,November,Hissar,Haryana,2953.0
+2022.0,Barley,December,Hissar,Haryana,2946.0
+2022.0,Barley,January,Alwar,Rajasthan ,2070.0
+2022.0,Barley,February,Alwar,Rajasthan ,2038.0
+2022.0,Barley,March,Alwar,Rajasthan ,2191.0
+2022.0,Barley,April,Alwar,Rajasthan ,2782.0
+2022.0,Barley,May,Alwar,Rajasthan ,2798.0
+2022.0,Barley,June,Alwar,Rajasthan ,2710.0
+2022.0,Barley,July,Alwar,Rajasthan ,2657.0
+2022.0,Barley,August,Alwar,Rajasthan ,2725.0
+2022.0,Barley,September,Alwar,Rajasthan ,2644.0
+2022.0,Barley,October,Alwar,Rajasthan ,2638.0
+2022.0,Barley,November,Alwar,Rajasthan ,2850.0
+2022.0,Barley,December,Alwar,Rajasthan ,2850.0
+2022.0,Barley,January,Bhilwara ,Rajasthan ,2168.0
+2022.0,Barley,February,Bhilwara ,Rajasthan ,2201.0
+2022.0,Barley,March,Bhilwara ,Rajasthan ,2166.0
+2022.0,Barley,April,Bhilwara ,Rajasthan ,2739.0
+2022.0,Barley,May,Bhilwara ,Rajasthan ,2854.0
+2022.0,Barley,June,Bhilwara ,Rajasthan ,2764.0
+2022.0,Barley,July,Bhilwara ,Rajasthan ,2734.0
+2022.0,Barley,August,Bhilwara ,Rajasthan ,2763.0
+2022.0,Barley,September,Bhilwara ,Rajasthan ,2727.0
+2022.0,Barley,October,Bhilwara ,Rajasthan ,2883.0
+2022.0,Barley,November,Bhilwara ,Rajasthan ,2763.0
+2022.0,Barley,December,Bhilwara ,Rajasthan ,2760.0
+2023.0,Barley,January,Muzaffarpur ,Bihar,2758.0
+2023.0,Barley,February,Muzaffarpur ,Bihar,2773.0
+2023.0,Barley,March,Muzaffarpur ,Bihar,2738.0
+2023.0,Barley,April,Muzaffarpur ,Bihar,2690.0
+2023.0,Barley,May,Muzaffarpur ,Bihar,2635.0
+2023.0,Barley,June,Muzaffarpur ,Bihar,2644.0
+2023.0,Barley,July,Muzaffarpur ,Bihar,2690.0
+2023.0,Barley,August,Muzaffarpur ,Bihar,2720.0
+2023.0,Barley,September,Muzaffarpur ,Bihar,2696.0
+2023.0,Barley,October,Muzaffarpur ,Bihar,2700.0
+2023.0,Barley,November,Muzaffarpur ,Bihar,2500.0
+2023.0,Barley,December,Muzaffarpur ,Bihar,2356.0
+2023.0,Barley,January,Bhopal ,Madhyapradesh ,2160.0
+2023.0,Barley,February,Bhopal ,Madhyapradesh ,2156.0
+2023.0,Barley,March,Bhopal ,Madhyapradesh ,2204.0
+2023.0,Barley,April,Bhopal ,Madhyapradesh ,2198.0
+2023.0,Barley,May,Bhopal ,Madhyapradesh ,2180.0
+2023.0,Barley,June,Bhopal ,Madhyapradesh ,2180.0
+2023.0,Barley,July,Bhopal ,Madhyapradesh ,2275.0
+2023.0,Barley,August,Bhopal ,Madhyapradesh ,2400.0
+2023.0,Barley,September,Bhopal ,Madhyapradesh ,2460.0
+2023.0,Barley,October,Bhopal ,Madhyapradesh ,2350.0
+2023.0,Barley,November,Bhopal ,Madhyapradesh ,2500.0
+2023.0,Barley,December,Bhopal ,Madhyapradesh ,2580.0
+2023.0,Barley,January,Hissar,Haryana,2778.0
+2023.0,Barley,February,Hissar,Haryana,2605.0
+2023.0,Barley,March,Hissar,Haryana,2136.0
+2023.0,Barley,April,Hissar,Haryana,1838.0
+2023.0,Barley,May,Hissar,Haryana,1789.0
+2023.0,Barley,June,Hissar,Haryana,1676.0
+2023.0,Barley,July,Hissar,Haryana,1635.0
+2023.0,Barley,August,Hissar,Haryana,1655.0
+2023.0,Barley,September,Hissar,Haryana,1790.0
+2023.0,Barley,October,Hissar,Haryana,1850.0
+2023.0,Barley,November,Hissar,Haryana,1878.0
+2023.0,Barley,December,Hissar,Haryana,1816.0
+2023.0,Barley,January,Alwar,Rajasthan ,2650.0
+2023.0,Barley,February,Alwar,Rajasthan ,2650.0
+2023.0,Barley,March,Alwar,Rajasthan ,2031.0
+2023.0,Barley,April,Alwar,Rajasthan ,1939.0
+2023.0,Barley,May,Alwar,Rajasthan ,1838.0
+2023.0,Barley,June,Alwar,Rajasthan ,1714.0
+2023.0,Barley,July,Alwar,Rajasthan ,1663.0
+2023.0,Barley,August,Alwar,Rajasthan ,1610.0
+2023.0,Barley,September,Alwar,Rajasthan ,1656.0
+2023.0,Barley,October,Alwar,Rajasthan ,1610.0
+2023.0,Barley,November,Alwar,Rajasthan ,1740.0
+2023.0,Barley,December,Alwar,Rajasthan ,1743.0
+2023.0,Barley,January,Bhilwara ,Rajasthan ,2873.0
+2023.0,Barley,February,Bhilwara ,Rajasthan ,2873.0
+2023.0,Barley,March,Bhilwara ,Rajasthan ,2050.0
+2023.0,Barley,April,Bhilwara ,Rajasthan ,1945.0
+2023.0,Barley,May,Bhilwara ,Rajasthan ,1860.0
+2023.0,Barley,June,Bhilwara ,Rajasthan ,1738.0
+2023.0,Barley,July,Bhilwara ,Rajasthan ,1710.0
+2023.0,Barley,August,Bhilwara ,Rajasthan ,1629.0
+2023.0,Barley,September,Bhilwara ,Rajasthan ,1749.0
+2023.0,Barley,October,Bhilwara ,Rajasthan ,1779.0
+2023.0,Barley,November,Bhilwara ,Rajasthan ,1809.0
+2023.0,Barley,December,Bhilwara ,Rajasthan ,1945.0
+2022.0,Barley,January,Gorakhpur ,Uttarpradesh ,1891.0
+2022.0,Barley,February,Gorakhpur ,Uttarpradesh ,1944.0
+2022.0,Barley,March,Gorakhpur ,Uttarpradesh ,1993.0
+2022.0,Barley,April,Gorakhpur ,Uttarpradesh ,2011.0
+2022.0,Barley,May,Gorakhpur ,Uttarpradesh ,2156.0
+2022.0,Barley,June,Gorakhpur ,Uttarpradesh ,2294.0
+2022.0,Barley,July,Gorakhpur ,Uttarpradesh ,2430.0
+2022.0,Barley,August,Gorakhpur ,Uttarpradesh ,2521.0
+2022.0,Barley,September,Gorakhpur ,Uttarpradesh ,2599.0
+2022.0,Barley,October,Gorakhpur ,Uttarpradesh ,2639.0
+2022.0,Barley,November,Gorakhpur ,Uttarpradesh ,2665.0
+2022.0,Barley,December,Gorakhpur ,Uttarpradesh ,2655.0
+2022.0,Barley,January,Hapur,Uttarpradesh ,1981.0
+2022.0,Barley,February,Hapur,Uttarpradesh ,2016.0
+2022.0,Barley,March,Hapur,Uttarpradesh ,2109.0
+2022.0,Barley,April,Hapur,Uttarpradesh ,2212.0
+2022.0,Barley,May,Hapur,Uttarpradesh ,2623.0
+2022.0,Barley,June,Hapur,Uttarpradesh ,2640.0
+2022.0,Barley,July,Hapur,Uttarpradesh ,2652.0
+2022.0,Barley,August,Hapur,Uttarpradesh ,2765.0
+2022.0,Barley,September,Hapur,Uttarpradesh ,2827.0
+2022.0,Barley,October,Hapur,Uttarpradesh ,2719.0
+2022.0,Barley,November,Hapur,Uttarpradesh ,2740.0
+2022.0,Barley,December,Hapur,Uttarpradesh ,2808.0
+2022.0,Barley,January,Kanpur ,Uttarpradesh ,2239.0
+2022.0,Barley,February,Kanpur ,Uttarpradesh ,2196.0
+2022.0,Barley,March,Kanpur ,Uttarpradesh ,2256.0
+2022.0,Barley,April,Kanpur ,Uttarpradesh ,2394.0
+2022.0,Barley,May,Kanpur ,Uttarpradesh ,2643.0
+2022.0,Barley,June,Kanpur ,Uttarpradesh ,2668.0
+2022.0,Barley,July,Kanpur ,Uttarpradesh ,2777.0
+2022.0,Barley,August,Kanpur ,Uttarpradesh ,2960.0
+2022.0,Barley,September,Kanpur ,Uttarpradesh ,2890.0
+2022.0,Barley,October,Kanpur ,Uttarpradesh ,2759.0
+2022.0,Barley,November,Kanpur ,Uttarpradesh ,2810.0
+2022.0,Barley,December,Kanpur ,Uttarpradesh ,2965.0
+2022.0,Barley,January,Delhi ,Delhi ,2000.0
+2022.0,Barley,February,Delhi ,Delhi ,1950.0
+2022.0,Barley,March,Delhi ,Delhi ,1900.0
+2022.0,Barley,April,Delhi ,Delhi ,1920.0
+2022.0,Barley,May,Delhi ,Delhi ,2000.0
+2022.0,Barley,June,Delhi ,Delhi ,2200.0
+2022.0,Barley,July,Delhi ,Delhi ,2200.0
+2022.0,Barley,August,Delhi ,Delhi ,2200.0
+2022.0,Barley,September,Delhi ,Delhi ,2020.0
+2022.0,Barley,October,Delhi ,Delhi ,1900.0
+2022.0,Barley,November,Delhi ,Delhi ,1975.0
+2022.0,Barley,December,Delhi ,Delhi ,2030.0
+2023.0,Barley,January,Gorakhpur ,Uttarpradesh ,2726.0
+2023.0,Barley,February,Gorakhpur ,Uttarpradesh ,2766.0
+2023.0,Barley,March,Gorakhpur ,Uttarpradesh ,2725.0
+2023.0,Barley,April,Gorakhpur ,Uttarpradesh ,2550.0
+2023.0,Barley,May,Gorakhpur ,Uttarpradesh ,2419.0
+2023.0,Barley,June,Gorakhpur ,Uttarpradesh ,2360.0
+2023.0,Barley,July,Gorakhpur ,Uttarpradesh ,2300.0
+2023.0,Barley,August,Gorakhpur ,Uttarpradesh ,2243.0
+2023.0,Barley,September,Gorakhpur ,Uttarpradesh ,2239.0
+2023.0,Barley,October,Gorakhpur ,Uttarpradesh ,2261.0
+2023.0,Barley,November,Gorakhpur ,Uttarpradesh ,2276.0
+2023.0,Barley,December,Gorakhpur ,Uttarpradesh ,2191.0
+2023.0,Barley,January,Hapur,Uttarpradesh ,2814.0
+2023.0,Barley,February,Hapur,Uttarpradesh ,2829.0
+2023.0,Barley,March,Hapur,Uttarpradesh ,2777.0
+2023.0,Barley,April,Hapur,Uttarpradesh ,2450.0
+2023.0,Barley,May,Hapur,Uttarpradesh ,2146.0
+2023.0,Barley,June,Hapur,Uttarpradesh ,2237.0
+2023.0,Barley,July,Hapur,Uttarpradesh ,2233.0
+2023.0,Barley,August,Hapur,Uttarpradesh ,2241.0
+2023.0,Barley,September,Hapur,Uttarpradesh ,2284.0
+2023.0,Barley,October,Hapur,Uttarpradesh ,2304.0
+2023.0,Barley,November,Hapur,Uttarpradesh ,2269.0
+2023.0,Barley,December,Hapur,Uttarpradesh ,2180.0
+2023.0,Barley,January,Kanpur ,Uttarpradesh ,3233.0
+2023.0,Barley,February,Kanpur ,Uttarpradesh ,3161.0
+2023.0,Barley,March,Kanpur ,Uttarpradesh ,2755.0
+2023.0,Barley,April,Kanpur ,Uttarpradesh ,2360.0
+2023.0,Barley,May,Kanpur ,Uttarpradesh ,2266.0
+2023.0,Barley,June,Kanpur ,Uttarpradesh ,2376.0
+2023.0,Barley,July,Kanpur ,Uttarpradesh ,2363.0
+2023.0,Barley,August,Kanpur ,Uttarpradesh ,2354.0
+2023.0,Barley,September,Kanpur ,Uttarpradesh ,2383.0
+2023.0,Barley,October,Kanpur ,Uttarpradesh ,2426.0
+2023.0,Barley,November,Kanpur ,Uttarpradesh ,2476.0
+2023.0,Barley,December,Kanpur ,Uttarpradesh ,2252.0
+2023.0,Barley,January,Delhi ,Delhi ,2125.0
+2023.0,Barley,February,Delhi ,Delhi ,2163.0
+2023.0,Barley,March,Delhi ,Delhi ,2250.0
+2023.0,Barley,April,Delhi ,Delhi ,2350.0
+2023.0,Barley,May,Delhi ,Delhi ,2450.0
+2023.0,Barley,June,Delhi ,Delhi ,2450.0
+2023.0,Barley,July,Delhi ,Delhi ,2425.0
+2023.0,Barley,August,Delhi ,Delhi ,2433.0
+2023.0,Barley,September,Delhi ,Delhi ,2501.0
+2023.0,Barley,October,Delhi ,Delhi ,2438.0
+2023.0,Barley,November,Delhi ,Delhi ,2388.0
+2023.0,Barley,December,Delhi ,Delhi ,2350.0
+2022.0,Potato ,January,Hyderabad,Telangana,1200.0
+2022.0,Potato ,February,Hyderabad,Telangana,1250.0
+2022.0,Potato ,March,Hyderabad,Telangana,1450.0
+2022.0,Potato ,April,Hyderabad,Telangana,1710.0
+2022.0,Potato ,May,Hyderabad,Telangana,1800.0
+2022.0,Potato ,June,Hyderabad,Telangana,1825.0
+2022.0,Potato ,July,Hyderabad,Telangana,2120.0
+2022.0,Potato ,August,Hyderabad,Telangana,2175.0
+2022.0,Potato ,September,Hyderabad,Telangana,1940.0
+2022.0,Potato ,October,Hyderabad,Telangana,2200.0
+2022.0,Potato ,November,Hyderabad,Telangana,2325.0
+2022.0,Potato ,December,Hyderabad,Telangana,3240.0
+2022.0,Potato ,January,Guwahati,Assam,1175.0
+2022.0,Potato ,February,Guwahati,Assam,1250.0
+2022.0,Potato ,March,Guwahati,Assam,1438.0
+2022.0,Potato ,April,Guwahati,Assam,1605.0
+2022.0,Potato ,May,Guwahati,Assam,1988.0
+2022.0,Potato ,June,Guwahati,Assam,2256.0
+2022.0,Potato ,July,Guwahati,Assam,2305.0
+2022.0,Potato ,August,Guwahati,Assam,2275.0
+2022.0,Potato ,September,Guwahati,Assam,2270.0
+2022.0,Potato ,October,Guwahati,Assam,2450.0
+2022.0,Potato ,November,Guwahati,Assam,2375.0
+2022.0,Potato ,December,Guwahati,Assam,1920.0
+2022.0,Potato ,January,Patna ,Bihar ,1065.0
+2022.0,Potato ,February,Patna ,Bihar ,960.0
+2022.0,Potato ,March,Patna ,Bihar ,1043.0
+2022.0,Potato ,April,Patna ,Bihar ,1130.0
+2022.0,Potato ,May,Patna ,Bihar ,1160.0
+2022.0,Potato ,June,Patna ,Bihar ,1273.0
+2022.0,Potato ,July,Patna ,Bihar ,1504.0
+2022.0,Potato ,August,Patna ,Bihar ,1670.0
+2022.0,Potato ,September,Patna ,Bihar ,1700.0
+2022.0,Potato ,October,Patna ,Bihar ,1768.0
+2022.0,Potato ,November,Patna ,Bihar ,1700.0
+2022.0,Potato ,December,Patna ,Bihar ,1392.0
+2022.0,Potato ,January,Hissar,Haryana ,1038.0
+2022.0,Potato ,February,Hissar,Haryana ,975.0
+2022.0,Potato ,March,Hissar,Haryana ,1050.0
+2022.0,Potato ,April,Hissar,Haryana ,1050.0
+2022.0,Potato ,May,Hissar,Haryana ,1375.0
+2022.0,Potato ,June,Hissar,Haryana ,1588.0
+2022.0,Potato ,July,Hissar,Haryana ,1710.0
+2022.0,Potato ,August,Hissar,Haryana ,1825.0
+2022.0,Potato ,September,Hissar,Haryana ,1820.0
+2022.0,Potato ,October,Hissar,Haryana ,1900.0
+2022.0,Potato ,November,Hissar,Haryana ,1950.0
+2022.0,Potato ,December,Hissar,Haryana ,1390.0
+2022.0,Potato ,January,Karnal,Haryana ,668.0
+2022.0,Potato ,February,Karnal,Haryana ,580.0
+2022.0,Potato ,March,Karnal,Haryana ,605.0
+2022.0,Potato ,April,Karnal,Haryana ,835.0
+2022.0,Potato ,May,Karnal,Haryana ,958.0
+2022.0,Potato ,June,Karnal,Haryana ,1002.0
+2022.0,Potato ,July,Karnal,Haryana ,1358.0
+2022.0,Potato ,August,Karnal,Haryana ,1343.0
+2022.0,Potato ,September,Karnal,Haryana ,1254.0
+2022.0,Potato ,October,Karnal,Haryana ,1370.0
+2022.0,Potato ,November,Karnal,Haryana ,1378.0
+2022.0,Potato ,December,Karnal,Haryana ,1070.0
+2023.0,Potato ,January,Hyderabad,Telangana,2288.0
+2023.0,Potato ,February,Hyderabad,Telangana,2100.0
+2023.0,Potato ,March,Hyderabad,Telangana,2420.0
+2023.0,Potato ,April,Hyderabad,Telangana,2250.0
+2023.0,Potato ,May,Hyderabad,Telangana,2075.0
+2023.0,Potato ,June,Hyderabad,Telangana,2260.0
+2023.0,Potato ,July,Hyderabad,Telangana,2475.0
+2023.0,Potato ,August,Hyderabad,Telangana,2325.0
+2023.0,Potato ,September,Hyderabad,Telangana,1940.0
+2023.0,Potato ,October,Hyderabad,Telangana,1975.0
+2023.0,Potato ,November,Hyderabad,Telangana,1975.0
+2023.0,Potato ,December,Hyderabad,Telangana,2100.0
+2023.0,Potato ,January,Guwahati,Assam,1238.0
+2023.0,Potato ,February,Guwahati,Assam,850.0
+2023.0,Potato ,March,Guwahati,Assam,740.0
+2023.0,Potato ,April,Guwahati,Assam,1225.0
+2023.0,Potato ,May,Guwahati,Assam,1575.0
+2023.0,Potato ,June,Guwahati,Assam,1445.0
+2023.0,Potato ,July,Guwahati,Assam,1506.0
+2023.0,Potato ,August,Guwahati,Assam,1488.0
+2023.0,Potato ,September,Guwahati,Assam,1420.0
+2023.0,Potato ,October,Guwahati,Assam,1400.0
+2023.0,Potato ,November,Guwahati,Assam,1406.0
+2023.0,Potato ,December,Guwahati,Assam,1380.0
+2023.0,Potato ,January,Patna ,Bihar ,1168.0
+2023.0,Potato ,February,Patna ,Bihar ,828.0
+2023.0,Potato ,March,Patna ,Bihar ,812.0
+2023.0,Potato ,April,Patna ,Bihar ,1043.0
+2023.0,Potato ,May,Patna ,Bihar ,1228.0
+2023.0,Potato ,June,Patna ,Bihar ,1338.0
+2023.0,Potato ,July,Patna ,Bihar ,1365.0
+2023.0,Potato ,August,Patna ,Bihar ,1418.0
+2023.0,Potato ,September,Patna ,Bihar ,1390.0
+2023.0,Potato ,October,Patna ,Bihar ,1220.0
+2023.0,Potato ,November,Patna ,Bihar ,1265.0
+2023.0,Potato ,December,Patna ,Bihar ,1120.0
+2023.0,Potato ,January,Hissar,Haryana ,1050.0
+2023.0,Potato ,February,Hissar,Haryana ,900.0
+2023.0,Potato ,March,Hissar,Haryana ,710.0
+2023.0,Potato ,April,Hissar,Haryana ,888.0
+2023.0,Potato ,May,Hissar,Haryana ,1100.0
+2023.0,Potato ,June,Hissar,Haryana ,1270.0
+2023.0,Potato ,July,Hissar,Haryana ,1475.0
+2023.0,Potato ,August,Hissar,Haryana ,1413.0
+2023.0,Potato ,September,Hissar,Haryana ,1430.0
+2023.0,Potato ,October,Hissar,Haryana ,1475.0
+2023.0,Potato ,November,Hissar,Haryana ,1275.0
+2023.0,Potato ,December,Hissar,Haryana ,930.0
+2023.0,Potato ,January,Karnal,Haryana ,528.0
+2023.0,Potato ,February,Karnal,Haryana ,385.0
+2023.0,Potato ,March,Karnal,Haryana ,361.0
+2023.0,Potato ,April,Karnal,Haryana ,568.0
+2023.0,Potato ,May,Karnal,Haryana ,708.0
+2023.0,Potato ,June,Karnal,Haryana ,830.0
+2023.0,Potato ,July,Karnal,Haryana ,850.0
+2023.0,Potato ,August,Karnal,Haryana ,850.0
+2023.0,Potato ,September,Karnal,Haryana ,814.0
+2023.0,Potato ,October,Karnal,Haryana ,758.0
+2023.0,Potato ,November,Karnal,Haryana ,1006.0
+2023.0,Potato ,December,Karnal,Haryana ,639.0
+2022.0,Potato ,January,Shimla ,Himachalpradesh ,1475.0
+2022.0,Potato ,February,Shimla ,Himachalpradesh ,1600.0
+2022.0,Potato ,March,Shimla ,Himachalpradesh ,1600.0
+2022.0,Potato ,April,Shimla ,Himachalpradesh ,1560.0
+2022.0,Potato ,May,Shimla ,Himachalpradesh ,1925.0
+2022.0,Potato ,June,Shimla ,Himachalpradesh ,2600.0
+2022.0,Potato ,July,Shimla ,Himachalpradesh ,2460.0
+2022.0,Potato ,August,Shimla ,Himachalpradesh ,2725.0
+2022.0,Potato ,September,Shimla ,Himachalpradesh ,3100.0
+2022.0,Potato ,October,Shimla ,Himachalpradesh ,2900.0
+2022.0,Potato ,November,Shimla ,Himachalpradesh ,2750.0
+2022.0,Potato ,December,Shimla ,Himachalpradesh ,1790.0
+2022.0,Potato ,January,Bengaluru ,Karnataka ,2063.0
+2022.0,Potato ,February,Bengaluru ,Karnataka ,2653.0
+2022.0,Potato ,March,Bengaluru ,Karnataka ,1601.0
+2022.0,Potato ,April,Bengaluru ,Karnataka ,1554.0
+2022.0,Potato ,May,Bengaluru ,Karnataka ,1925.0
+2022.0,Potato ,June,Bengaluru ,Karnataka ,2480.0
+2022.0,Potato ,July,Bengaluru ,Karnataka ,2545.0
+2022.0,Potato ,August,Bengaluru ,Karnataka ,2181.0
+2022.0,Potato ,September,Bengaluru ,Karnataka ,2180.0
+2022.0,Potato ,October,Bengaluru ,Karnataka ,2145.0
+2022.0,Potato ,November,Bengaluru ,Karnataka ,2301.0
+2022.0,Potato ,December,Bengaluru ,Karnataka ,2066.0
+2022.0,Potato ,January,Mumbai ,Maharashtra ,1063.0
+2022.0,Potato ,February,Mumbai ,Maharashtra ,1213.0
+2022.0,Potato ,March,Mumbai ,Maharashtra ,1350.0
+2022.0,Potato ,April,Mumbai ,Maharashtra ,1530.0
+2022.0,Potato ,May,Mumbai ,Maharashtra ,1488.0
+2022.0,Potato ,June,Mumbai ,Maharashtra ,1638.0
+2022.0,Potato ,July,Mumbai ,Maharashtra ,1770.0
+2022.0,Potato ,August,Mumbai ,Maharashtra ,1725.0
+2022.0,Potato ,September,Mumbai ,Maharashtra ,1710.0
+2022.0,Potato ,October,Mumbai ,Maharashtra ,1913.0
+2022.0,Potato ,November,Mumbai ,Maharashtra ,1763.0
+2022.0,Potato ,December,Mumbai ,Maharashtra ,1670.0
+2022.0,Potato ,January,Nagpur ,Maharashtra ,975.0
+2022.0,Potato ,February,Nagpur ,Maharashtra ,1138.0
+2022.0,Potato ,March,Nagpur ,Maharashtra ,1138.0
+2022.0,Potato ,April,Nagpur ,Maharashtra ,1250.0
+2022.0,Potato ,May,Nagpur ,Maharashtra ,1550.0
+2022.0,Potato ,June,Nagpur ,Maharashtra ,1688.0
+2022.0,Potato ,July,Nagpur ,Maharashtra ,1750.0
+2022.0,Potato ,August,Nagpur ,Maharashtra ,1725.0
+2022.0,Potato ,September,Nagpur ,Maharashtra ,1730.0
+2022.0,Potato ,October,Nagpur ,Maharashtra ,2063.0
+2022.0,Potato ,November,Nagpur ,Maharashtra ,1838.0
+2022.0,Potato ,December,Nagpur ,Maharashtra ,1680.0
+2022.0,Potato ,January,Hoshiarpur,Punjab,706.0
+2022.0,Potato ,February,Hoshiarpur,Punjab,688.0
+2022.0,Potato ,March,Hoshiarpur,Punjab,900.0
+2022.0,Potato ,April,Hoshiarpur,Punjab,880.0
+2022.0,Potato ,May,Hoshiarpur,Punjab,1050.0
+2022.0,Potato ,June,Hoshiarpur,Punjab,1300.0
+2022.0,Potato ,July,Hoshiarpur,Punjab,1590.0
+2022.0,Potato ,August,Hoshiarpur,Punjab,1400.0
+2022.0,Potato ,September,Hoshiarpur,Punjab,1470.0
+2022.0,Potato ,October,Hoshiarpur,Punjab,1538.0
+2022.0,Potato ,November,Hoshiarpur,Punjab,1338.0
+2022.0,Potato ,December,Hoshiarpur,Punjab,825.0
+2023.0,Potato ,January,Shimla ,Himachalpradesh ,1400.0
+2023.0,Potato ,February,Shimla ,Himachalpradesh ,1175.0
+2023.0,Potato ,March,Shimla ,Himachalpradesh ,1300.0
+2023.0,Potato ,April,Shimla ,Himachalpradesh ,1400.0
+2023.0,Potato ,May,Shimla ,Himachalpradesh ,1400.0
+2023.0,Potato ,June,Shimla ,Himachalpradesh ,1880.0
+2023.0,Potato ,July,Shimla ,Himachalpradesh ,2400.0
+2023.0,Potato ,August,Shimla ,Himachalpradesh ,2400.0
+2023.0,Potato ,September,Shimla ,Himachalpradesh ,2320.0
+2023.0,Potato ,October,Shimla ,Himachalpradesh ,2200.0
+2023.0,Potato ,November,Shimla ,Himachalpradesh ,2200.0
+2023.0,Potato ,December,Shimla ,Himachalpradesh ,1440.0
+2023.0,Potato ,January,Bengaluru ,Karnataka ,2075.0
+2023.0,Potato ,February,Bengaluru ,Karnataka ,1750.0
+2023.0,Potato ,March,Bengaluru ,Karnataka ,1200.0
+2023.0,Potato ,April,Bengaluru ,Karnataka ,1356.0
+2023.0,Potato ,May,Bengaluru ,Karnataka ,1663.0
+2023.0,Potato ,June,Bengaluru ,Karnataka ,1520.0
+2023.0,Potato ,July,Bengaluru ,Karnataka ,1494.0
+2023.0,Potato ,August,Bengaluru ,Karnataka ,1658.0
+2023.0,Potato ,September,Bengaluru ,Karnataka ,1640.0
+2023.0,Potato ,October,Bengaluru ,Karnataka ,1825.0
+2023.0,Potato ,November,Bengaluru ,Karnataka ,1663.0
+2023.0,Potato ,December,Bengaluru ,Karnataka ,1880.0
+2023.0,Potato ,January,Mumbai ,Maharashtra ,1525.0
+2023.0,Potato ,February,Mumbai ,Maharashtra ,1138.0
+2023.0,Potato ,March,Mumbai ,Maharashtra ,1060.0
+2023.0,Potato ,April,Mumbai ,Maharashtra ,1150.0
+2023.0,Potato ,May,Mumbai ,Maharashtra ,1113.0
+2023.0,Potato ,June,Mumbai ,Maharashtra ,1170.0
+2023.0,Potato ,July,Mumbai ,Maharashtra ,1225.0
+2023.0,Potato ,August,Mumbai ,Maharashtra ,1225.0
+2023.0,Potato ,September,Mumbai ,Maharashtra ,1120.0
+2023.0,Potato ,October,Mumbai ,Maharashtra ,1025.0
+2023.0,Potato ,November,Mumbai ,Maharashtra ,1088.0
+2023.0,Potato ,December,Mumbai ,Maharashtra ,1175.0
+2023.0,Potato ,January,Nagpur ,Maharashtra ,1475.0
+2023.0,Potato ,February,Nagpur ,Maharashtra ,1150.0
+2023.0,Potato ,March,Nagpur ,Maharashtra ,870.0
+2023.0,Potato ,April,Nagpur ,Maharashtra ,1138.0
+2023.0,Potato ,May,Nagpur ,Maharashtra ,1150.0
+2023.0,Potato ,June,Nagpur ,Maharashtra ,1275.0
+2023.0,Potato ,July,Nagpur ,Maharashtra ,1475.0
+2023.0,Potato ,August,Nagpur ,Maharashtra ,1350.0
+2023.0,Potato ,September,Nagpur ,Maharashtra ,1350.0
+2023.0,Potato ,October,Nagpur ,Maharashtra ,1350.0
+2023.0,Potato ,November,Nagpur ,Maharashtra ,1225.0
+2023.0,Potato ,December,Nagpur ,Maharashtra ,1269.0
+2023.0,Potato ,January,Hoshiarpur,Punjab,544.0
+2023.0,Potato ,February,Hoshiarpur,Punjab,569.0
+2023.0,Potato ,March,Hoshiarpur,Punjab,567.0
+2023.0,Potato ,April,Hoshiarpur,Punjab,525.0
+2023.0,Potato ,May,Hoshiarpur,Punjab,688.0
+2023.0,Potato ,June,Hoshiarpur,Punjab,720.0
+2023.0,Potato ,July,Hoshiarpur,Punjab,763.0
+2023.0,Potato ,August,Hoshiarpur,Punjab,900.0
+2023.0,Potato ,September,Hoshiarpur,Punjab,920.0
+2023.0,Potato ,October,Hoshiarpur,Punjab,975.0
+2023.0,Potato ,November,Hoshiarpur,Punjab,925.0
+2023.0,Potato ,December,Hoshiarpur,Punjab,660.0
+2022.0,Onion,January,Cuddapah,Andhra Pradesh,3075.0
+2022.0,Onion,February,Cuddapah,Andhra Pradesh,2800.0
+2022.0,Onion,March,Cuddapah,Andhra Pradesh,2300.0
+2022.0,Onion,April,Cuddapah,Andhra Pradesh,1910.0
+2022.0,Onion,May,Cuddapah,Andhra Pradesh,1975.0
+2022.0,Onion,June,Cuddapah,Andhra Pradesh,1713.0
+2022.0,Onion,July,Cuddapah,Andhra Pradesh,1770.0
+2022.0,Onion,August,Cuddapah,Andhra Pradesh,2113.0
+2022.0,Onion,September,Cuddapah,Andhra Pradesh,2120.0
+2022.0,Onion,October,Cuddapah,Andhra Pradesh,2200.0
+2022.0,Onion,November,Cuddapah,Andhra Pradesh,2175.0
+2022.0,Onion,December,Cuddapah,Andhra Pradesh,2230.0
+2022.0,Onion,January,Hyderabad,Telangana,1888.0
+2022.0,Onion,February,Hyderabad,Telangana,1863.0
+2022.0,Onion,March,Hyderabad,Telangana,1725.0
+2022.0,Onion,April,Hyderabad,Telangana,1080.0
+2022.0,Onion,May,Hyderabad,Telangana,975.0
+2022.0,Onion,June,Hyderabad,Telangana,1138.0
+2022.0,Onion,July,Hyderabad,Telangana,1180.0
+2022.0,Onion,August,Hyderabad,Telangana,1275.0
+2022.0,Onion,September,Hyderabad,Telangana,1130.0
+2022.0,Onion,October,Hyderabad,Telangana,1375.0
+2022.0,Onion,November,Hyderabad,Telangana,1850.0
+2022.0,Onion,December,Hyderabad,Telangana,1690.0
+2022.0,Onion,January,Guwahati,Assam,3200.0
+2022.0,Onion,February,Guwahati,Assam,3063.0
+2022.0,Onion,March,Guwahati,Assam,2150.0
+2022.0,Onion,April,Guwahati,Assam,1410.0
+2022.0,Onion,May,Guwahati,Assam,1688.0
+2022.0,Onion,June,Guwahati,Assam,1988.0
+2022.0,Onion,July,Guwahati,Assam,2315.0
+2022.0,Onion,August,Guwahati,Assam,2275.0
+2022.0,Onion,September,Guwahati,Assam,2340.0
+2022.0,Onion,October,Guwahati,Assam,2800.0
+2022.0,Onion,November,Guwahati,Assam,2800.0
+2022.0,Onion,December,Guwahati,Assam,1920.0
+2022.0,Onion,January,Patna ,Bihar ,2780.0
+2022.0,Onion,February,Patna ,Bihar ,2970.0
+2022.0,Onion,March,Patna ,Bihar ,2813.0
+2022.0,Onion,April,Patna ,Bihar ,1638.0
+2022.0,Onion,May,Patna ,Bihar ,1308.0
+2022.0,Onion,June,Patna ,Bihar ,1243.0
+2022.0,Onion,July,Patna ,Bihar ,1612.0
+2022.0,Onion,August,Patna ,Bihar ,1720.0
+2022.0,Onion,September,Patna ,Bihar ,1750.0
+2022.0,Onion,October,Patna ,Bihar ,1828.0
+2022.0,Onion,November,Patna ,Bihar ,2183.0
+2022.0,Onion,December,Patna ,Bihar ,1646.0
+2022.0,Onion,January,Karnal,Haryana ,2166.0
+2022.0,Onion,February,Karnal,Haryana ,2333.0
+2022.0,Onion,March,Karnal,Haryana ,1644.0
+2022.0,Onion,April,Karnal,Haryana ,1000.0
+2022.0,Onion,May,Karnal,Haryana ,945.0
+2022.0,Onion,June,Karnal,Haryana ,963.0
+2022.0,Onion,July,Karnal,Haryana ,1320.0
+2022.0,Onion,August,Karnal,Haryana ,1401.0
+2022.0,Onion,September,Karnal,Haryana ,1268.0
+2022.0,Onion,October,Karnal,Haryana ,1527.0
+2022.0,Onion,November,Karnal,Haryana ,1606.0
+2022.0,Onion,December,Karnal,Haryana ,1586.0
+2022.0,Onion,January,Udhampur,Jammu & Kashmir,3000.0
+2022.0,Onion,February,Udhampur,Jammu & Kashmir,3000.0
+2022.0,Onion,March,Udhampur,Jammu & Kashmir,2450.0
+2022.0,Onion,April,Udhampur,Jammu & Kashmir,1690.0
+2022.0,Onion,May,Udhampur,Jammu & Kashmir,1625.0
+2022.0,Onion,June,Udhampur,Jammu & Kashmir,1750.0
+2022.0,Onion,July,Udhampur,Jammu & Kashmir,1890.0
+2022.0,Onion,August,Udhampur,Jammu & Kashmir,1925.0
+2022.0,Onion,September,Udhampur,Jammu & Kashmir,1870.0
+2022.0,Onion,October,Udhampur,Jammu & Kashmir,2150.0
+2022.0,Onion,November,Udhampur,Jammu & Kashmir,2700.0
+2022.0,Onion,December,Udhampur,Jammu & Kashmir,2100.0
+2022.0,Onion,January,Mysore,Karnataka ,2513.0
+2022.0,Onion,February,Mysore,Karnataka ,2469.0
+2022.0,Onion,March,Mysore,Karnataka ,1781.0
+2022.0,Onion,April,Mysore,Karnataka ,1450.0
+2022.0,Onion,May,Mysore,Karnataka ,1350.0
+2022.0,Onion,June,Mysore,Karnataka ,1450.0
+2022.0,Onion,July,Mysore,Karnataka ,1500.0
+2022.0,Onion,August,Mysore,Karnataka ,1533.0
+2022.0,Onion,September,Mysore,Karnataka ,1625.0
+2022.0,Onion,October,Mysore,Karnataka ,1950.0
+2022.0,Onion,November,Mysore,Karnataka ,2192.0
+2022.0,Onion,December,Mysore,Karnataka ,1825.0
+2022.0,Onion,January,Alleppey,Kerela,3950.0
+2022.0,Onion,February,Alleppey,Kerela,4000.0
+2022.0,Onion,March,Alleppey,Kerela,2825.0
+2022.0,Onion,April,Alleppey,Kerela,2700.0
+2022.0,Onion,May,Alleppey,Kerela,2500.0
+2022.0,Onion,June,Alleppey,Kerela,2300.0
+2022.0,Onion,July,Alleppey,Kerela,2200.0
+2022.0,Onion,August,Alleppey,Kerela,2125.0
+2022.0,Onion,September,Alleppey,Kerela,2040.0
+2022.0,Onion,October,Alleppey,Kerela,2775.0
+2022.0,Onion,November,Alleppey,Kerela,3375.0
+2022.0,Onion,December,Alleppey,Kerela,2500.0
+2022.0,Onion,January,Kozhikode,Kerela,3575.0
+2022.0,Onion,February,Kozhikode,Kerela,3163.0
+2022.0,Onion,March,Kozhikode,Kerela,2013.0
+2022.0,Onion,April,Kozhikode,Kerela,1650.0
+2022.0,Onion,May,Kozhikode,Kerela,1538.0
+2022.0,Onion,June,Kozhikode,Kerela,1850.0
+2022.0,Onion,July,Kozhikode,Kerela,1910.0
+2022.0,Onion,August,Kozhikode,Kerela,1838.0
+2022.0,Onion,September,Kozhikode,Kerela,1810.0
+2022.0,Onion,October,Kozhikode,Kerela,2488.0
+2022.0,Onion,November,Kozhikode,Kerela,2588.0
+2022.0,Onion,December,Kozhikode,Kerela,1990.0
+2022.0,Onion,January,Mumbai ,Maharashtra ,2563.0
+2022.0,Onion,February,Mumbai ,Maharashtra ,2550.0
+2022.0,Onion,March,Mumbai ,Maharashtra ,1488.0
+2022.0,Onion,April,Mumbai ,Maharashtra ,1020.0
+2022.0,Onion,May,Mumbai ,Maharashtra ,900.0
+2022.0,Onion,June,Mumbai ,Maharashtra ,1150.0
+2022.0,Onion,July,Mumbai ,Maharashtra ,1350.0
+2022.0,Onion,August,Mumbai ,Maharashtra ,1225.0
+2022.0,Onion,September,Mumbai ,Maharashtra ,1310.0
+2022.0,Onion,October,Mumbai ,Maharashtra ,2013.0
+2022.0,Onion,November,Mumbai ,Maharashtra ,2025.0
+2022.0,Onion,December,Mumbai ,Maharashtra ,1500.0
+2022.0,Onion,January,Chennai,Tamil Nadu,3375.0
+2022.0,Onion,February,Chennai,Tamil Nadu,3225.0
+2022.0,Onion,March,Chennai,Tamil Nadu,2200.0
+2022.0,Onion,April,Chennai,Tamil Nadu,1760.0
+2022.0,Onion,May,Chennai,Tamil Nadu,1425.0
+2022.0,Onion,June,Chennai,Tamil Nadu,2125.0
+2022.0,Onion,July,Chennai,Tamil Nadu,2020.0
+2022.0,Onion,August,Chennai,Tamil Nadu,1900.0
+2022.0,Onion,September,Chennai,Tamil Nadu,2080.0
+2022.0,Onion,October,Chennai,Tamil Nadu,2775.0
+2022.0,Onion,November,Chennai,Tamil Nadu,3075.0
+2022.0,Onion,December,Chennai,Tamil Nadu,2460.0
+2022.0,Onion,January,Dindigul,Tamil Nadu,2500.0
+2022.0,Onion,February,Dindigul,Tamil Nadu,2000.0
+2022.0,Onion,March,Dindigul,Tamil Nadu,1900.0
+2022.0,Onion,April,Dindigul,Tamil Nadu,1500.0
+2022.0,Onion,May,Dindigul,Tamil Nadu,1500.0
+2022.0,Onion,June,Dindigul,Tamil Nadu,1500.0
+2022.0,Onion,July,Dindigul,Tamil Nadu,1680.0
+2022.0,Onion,August,Dindigul,Tamil Nadu,1800.0
+2022.0,Onion,September,Dindigul,Tamil Nadu,1840.0
+2022.0,Onion,October,Dindigul,Tamil Nadu,2200.0
+2022.0,Onion,November,Dindigul,Tamil Nadu,2475.0
+2022.0,Onion,December,Dindigul,Tamil Nadu,1940.0
+2022.0,Onion,January,Kanpur,Uttarpradesh,1875.0
+2022.0,Onion,February,Kanpur,Uttarpradesh,2075.0
+2022.0,Onion,March,Kanpur,Uttarpradesh,2550.0
+2022.0,Onion,April,Kanpur,Uttarpradesh,1909.0
+2022.0,Onion,May,Kanpur,Uttarpradesh,1289.0
+2022.0,Onion,June,Kanpur,Uttarpradesh,1189.0
+2022.0,Onion,July,Kanpur,Uttarpradesh,1389.0
+2022.0,Onion,August,Kanpur,Uttarpradesh,1510.0
+2022.0,Onion,September,Kanpur,Uttarpradesh,1357.0
+2022.0,Onion,October,Kanpur,Uttarpradesh,1375.0
+2022.0,Onion,November,Kanpur,Uttarpradesh,1663.0
+2022.0,Onion,December,Kanpur,Uttarpradesh,1460.0
+2022.0,Onion,January,Lucknow,Uttarpradesh,2094.0
+2022.0,Onion,February,Lucknow,Uttarpradesh,2388.0
+2022.0,Onion,March,Lucknow,Uttarpradesh,2850.0
+2022.0,Onion,April,Lucknow,Uttarpradesh,1970.0
+2022.0,Onion,May,Lucknow,Uttarpradesh,1438.0
+2022.0,Onion,June,Lucknow,Uttarpradesh,1241.0
+2022.0,Onion,July,Lucknow,Uttarpradesh,1408.0
+2022.0,Onion,August,Lucknow,Uttarpradesh,1475.0
+2022.0,Onion,September,Lucknow,Uttarpradesh,1510.0
+2022.0,Onion,October,Lucknow,Uttarpradesh,1496.0
+2022.0,Onion,November,Lucknow,Uttarpradesh,1708.0
+2022.0,Onion,December,Lucknow,Uttarpradesh,1326.0
+2022.0,Onion,January,Kolkata,West Bengal,2925.0
+2022.0,Onion,February,Kolkata,West Bengal,3013.0
+2022.0,Onion,March,Kolkata,West Bengal,1919.0
+2022.0,Onion,April,Kolkata,West Bengal,1095.0
+2022.0,Onion,May,Kolkata,West Bengal,988.0
+2022.0,Onion,June,Kolkata,West Bengal,1591.0
+2022.0,Onion,July,Kolkata,West Bengal,1645.0
+2022.0,Onion,August,Kolkata,West Bengal,1781.0
+2022.0,Onion,September,Kolkata,West Bengal,1615.0
+2022.0,Onion,October,Kolkata,West Bengal,2391.0
+2022.0,Onion,November,Kolkata,West Bengal,2181.0
+2022.0,Onion,December,Kolkata,West Bengal,1890.0
+2023.0,Onion,January,Cuddapah,Andhra Pradesh,2100.0
+2023.0,Onion,February,Cuddapah,Andhra Pradesh,2005.0
+2023.0,Onion,March,Cuddapah,Andhra Pradesh,1717.0
+2023.0,Onion,April,Cuddapah,Andhra Pradesh,1838.0
+2023.0,Onion,May,Cuddapah,Andhra Pradesh,1936.0
+2023.0,Onion,June,Cuddapah,Andhra Pradesh,1980.0
+2023.0,Onion,July,Cuddapah,Andhra Pradesh,2263.0
+2023.0,Onion,August,Cuddapah,Andhra Pradesh,2600.0
+2023.0,Onion,September,Cuddapah,Andhra Pradesh,3100.0
+2023.0,Onion,October,Cuddapah,Andhra Pradesh,3463.0
+2023.0,Onion,November,Cuddapah,Andhra Pradesh,4125.0
+2023.0,Onion,December,Cuddapah,Andhra Pradesh,3570.0
+2023.0,Onion,January,Hyderabad,Telangana,1775.0
+2023.0,Onion,February,Hyderabad,Telangana,1513.0
+2023.0,Onion,March,Hyderabad,Telangana,1320.0
+2023.0,Onion,April,Hyderabad,Telangana,1163.0
+2023.0,Onion,May,Hyderabad,Telangana,1213.0
+2023.0,Onion,June,Hyderabad,Telangana,1520.0
+2023.0,Onion,July,Hyderabad,Telangana,1663.0
+2023.0,Onion,August,Hyderabad,Telangana,1988.0
+2023.0,Onion,September,Hyderabad,Telangana,2600.0
+2023.0,Onion,October,Hyderabad,Telangana,3425.0
+2023.0,Onion,November,Hyderabad,Telangana,4725.0
+2023.0,Onion,December,Hyderabad,Telangana,3660.0
+2023.0,Onion,January,Guwahati,Assam,2175.0
+2023.0,Onion,February,Guwahati,Assam,1975.0
+2023.0,Onion,March,Guwahati,Assam,1420.0
+2023.0,Onion,April,Guwahati,Assam,1325.0
+2023.0,Onion,May,Guwahati,Assam,1700.0
+2023.0,Onion,June,Guwahati,Assam,1930.0
+2023.0,Onion,July,Guwahati,Assam,2325.0
+2023.0,Onion,August,Guwahati,Assam,2838.0
+2023.0,Onion,September,Guwahati,Assam,2895.0
+2023.0,Onion,October,Guwahati,Assam,3550.0
+2023.0,Onion,November,Guwahati,Assam,5025.0
+2023.0,Onion,December,Guwahati,Assam,4220.0
+2023.0,Onion,January,Patna ,Bihar ,1603.0
+2023.0,Onion,February,Patna ,Bihar ,1450.0
+2023.0,Onion,March,Patna ,Bihar ,1218.0
+2023.0,Onion,April,Patna ,Bihar ,1065.0
+2023.0,Onion,May,Patna ,Bihar ,1200.0
+2023.0,Onion,June,Patna ,Bihar ,1298.0
+2023.0,Onion,July,Patna ,Bihar ,1558.0
+2023.0,Onion,August,Patna ,Bihar ,2115.0
+2023.0,Onion,September,Patna ,Bihar ,2662.0
+2023.0,Onion,October,Patna ,Bihar ,3075.0
+2023.0,Onion,November,Patna ,Bihar ,4670.0
+2023.0,Onion,December,Patna ,Bihar ,3410.0
+2023.0,Onion,January,Karnal,Haryana ,1663.0
+2023.0,Onion,February,Karnal,Haryana ,1166.0
+2023.0,Onion,March,Karnal,Haryana ,840.0
+2023.0,Onion,April,Karnal,Haryana ,906.0
+2023.0,Onion,May,Karnal,Haryana ,798.0
+2023.0,Onion,June,Karnal,Haryana ,865.0
+2023.0,Onion,July,Karnal,Haryana ,1363.0
+2023.0,Onion,August,Karnal,Haryana ,1572.0
+2023.0,Onion,September,Karnal,Haryana ,1715.0
+2023.0,Onion,October,Karnal,Haryana ,2117.0
+2023.0,Onion,November,Karnal,Haryana ,3694.0
+2023.0,Onion,December,Karnal,Haryana ,2455.0
+2023.0,Onion,January,Udhampur,Jammu & Kashmir,2200.0
+2023.0,Onion,February,Udhampur,Jammu & Kashmir,1750.0
+2023.0,Onion,March,Udhampur,Jammu & Kashmir,1620.0
+2023.0,Onion,April,Udhampur,Jammu & Kashmir,1650.0
+2023.0,Onion,May,Udhampur,Jammu & Kashmir,1800.0
+2023.0,Onion,June,Udhampur,Jammu & Kashmir,1740.0
+2023.0,Onion,July,Udhampur,Jammu & Kashmir,2200.0
+2023.0,Onion,August,Udhampur,Jammu & Kashmir,2475.0
+2023.0,Onion,September,Udhampur,Jammu & Kashmir,3040.0
+2023.0,Onion,October,Udhampur,Jammu & Kashmir,3875.0
+2023.0,Onion,November,Udhampur,Jammu & Kashmir,
+2023.0,Onion,December,Udhampur,Jammu & Kashmir,
+2023.0,Onion,January,Mysore,Karnataka ,1955.0
+2023.0,Onion,February,Mysore,Karnataka ,1500.0
+2023.0,Onion,March,Mysore,Karnataka ,1188.0
+2023.0,Onion,April,Mysore,Karnataka ,1075.0
+2023.0,Onion,May,Mysore,Karnataka ,925.0
+2023.0,Onion,June,Mysore,Karnataka ,970.0
+2023.0,Onion,July,Mysore,Karnataka ,1500.0
+2023.0,Onion,August,Mysore,Karnataka ,1688.0
+2023.0,Onion,September,Mysore,Karnataka ,2225.0
+2023.0,Onion,October,Mysore,Karnataka ,2267.0
+2023.0,Onion,November,Mysore,Karnataka ,4430.0
+2023.0,Onion,December,Mysore,Karnataka ,3370.0
+2023.0,Onion,January,Alleppey,Kerela,2500.0
+2023.0,Onion,February,Alleppey,Kerela,1950.0
+2023.0,Onion,March,Alleppey,Kerela,1940.0
+2023.0,Onion,April,Alleppey,Kerela,1875.0
+2023.0,Onion,May,Alleppey,Kerela,1900.0
+2023.0,Onion,June,Alleppey,Kerela,2040.0
+2023.0,Onion,July,Alleppey,Kerela,2325.0
+2023.0,Onion,August,Alleppey,Kerela,2750.0
+2023.0,Onion,September,Alleppey,Kerela,3160.0
+2023.0,Onion,October,Alleppey,Kerela,4200.0
+2023.0,Onion,November,Alleppey,Kerela,5625.0
+2023.0,Onion,December,Alleppey,Kerela,4940.0
+2023.0,Onion,January,Kozhikode,Kerela,2113.0
+2023.0,Onion,February,Kozhikode,Kerela,1575.0
+2023.0,Onion,March,Kozhikode,Kerela,1450.0
+2023.0,Onion,April,Kozhikode,Kerela,1388.0
+2023.0,Onion,May,Kozhikode,Kerela,1400.0
+2023.0,Onion,June,Kozhikode,Kerela,1520.0
+2023.0,Onion,July,Kozhikode,Kerela,1950.0
+2023.0,Onion,August,Kozhikode,Kerela,2550.0
+2023.0,Onion,September,Kozhikode,Kerela,2640.0
+2023.0,Onion,October,Kozhikode,Kerela,3913.0
+2023.0,Onion,November,Kozhikode,Kerela,4825.0
+2023.0,Onion,December,Kozhikode,Kerela,4060.0
+2023.0,Onion,January,Mumbai ,Maharashtra ,1675.0
+2023.0,Onion,February,Mumbai ,Maharashtra ,1063.0
+2023.0,Onion,March,Mumbai ,Maharashtra ,1000.0
+2023.0,Onion,April,Mumbai ,Maharashtra ,825.0
+2023.0,Onion,May,Mumbai ,Maharashtra ,775.0
+2023.0,Onion,June,Mumbai ,Maharashtra ,1090.0
+2023.0,Onion,July,Mumbai ,Maharashtra ,1350.0
+2023.0,Onion,August,Mumbai ,Maharashtra ,1563.0
+2023.0,Onion,September,Mumbai ,Maharashtra ,1690.0
+2023.0,Onion,October,Mumbai ,Maharashtra ,2136.0
+2023.0,Onion,November,Mumbai ,Maharashtra ,3525.0
+2023.0,Onion,December,Mumbai ,Maharashtra ,2825.0
+2023.0,Onion,January,Chennai,Tamilnadu,2375.0
+2023.0,Onion,February,Chennai,Tamilnadu,1675.0
+2023.0,Onion,March,Chennai,Tamilnadu,1620.0
+2023.0,Onion,April,Chennai,Tamilnadu,1500.0
+2023.0,Onion,May,Chennai,Tamilnadu,1650.0
+2023.0,Onion,June,Chennai,Tamilnadu,2020.0
+2023.0,Onion,July,Chennai,Tamilnadu,2000.0
+2023.0,Onion,August,Chennai,Tamilnadu,2525.0
+2023.0,Onion,September,Chennai,Tamilnadu,2940.0
+2023.0,Onion,October,Chennai,Tamilnadu,3975.0
+2023.0,Onion,November,Chennai,Tamilnadu,5475.0
+2023.0,Onion,December,Chennai,Tamilnadu,4000.0
+2023.0,Onion,January,Dindigul,Tamilnadu,2200.0
+2023.0,Onion,February,Dindigul,Tamilnadu,1950.0
+2023.0,Onion,March,Dindigul,Tamilnadu,1020.0
+2023.0,Onion,April,Dindigul,Tamilnadu,975.0
+2023.0,Onion,May,Dindigul,Tamilnadu,1000.0
+2023.0,Onion,June,Dindigul,Tamilnadu,1180.0
+2023.0,Onion,July,Dindigul,Tamilnadu,1950.0
+2023.0,Onion,August,Dindigul,Tamilnadu,2150.0
+2023.0,Onion,September,Dindigul,Tamilnadu,2340.0
+2023.0,Onion,October,Dindigul,Tamilnadu,3200.0
+2023.0,Onion,November,Dindigul,Tamilnadu,4750.0
+2023.0,Onion,December,Dindigul,Tamilnadu,3600.0
+2023.0,Onion,January,Kanpur,Uttarpradesh,1750.0
+2023.0,Onion,February,Kanpur,Uttarpradesh,1703.0
+2023.0,Onion,March,Kanpur,Uttarpradesh,1405.0
+2023.0,Onion,April,Kanpur,Uttarpradesh,1340.0
+2023.0,Onion,May,Kanpur,Uttarpradesh,1175.0
+2023.0,Onion,June,Kanpur,Uttarpradesh,1152.0
+2023.0,Onion,July,Kanpur,Uttarpradesh,1544.0
+2023.0,Onion,August,Kanpur,Uttarpradesh,1750.0
+2023.0,Onion,September,Kanpur,Uttarpradesh,2047.0
+2023.0,Onion,October,Kanpur,Uttarpradesh,2263.0
+2023.0,Onion,November,Kanpur,Uttarpradesh,3525.0
+2023.0,Onion,December,Kanpur,Uttarpradesh,2930.0
+2023.0,Onion,January,Lucknow,Uttarpradesh,1450.0
+2023.0,Onion,February,Lucknow,Uttarpradesh,1543.0
+2023.0,Onion,March,Lucknow,Uttarpradesh,1260.0
+2023.0,Onion,April,Lucknow,Uttarpradesh,1241.0
+2023.0,Onion,May,Lucknow,Uttarpradesh,1170.0
+2023.0,Onion,June,Lucknow,Uttarpradesh,1167.0
+2023.0,Onion,July,Lucknow,Uttarpradesh,1461.0
+2023.0,Onion,August,Lucknow,Uttarpradesh,1844.0
+2023.0,Onion,September,Lucknow,Uttarpradesh,2082.0
+2023.0,Onion,October,Lucknow,Uttarpradesh,2390.0
+2023.0,Onion,November,Lucknow,Uttarpradesh,3863.0
+2023.0,Onion,December,Lucknow,Uttarpradesh,3160.0
+2023.0,Onion,January,Kolkata,West Bengal,1990.0
+2023.0,Onion,February,Kolkata,West Bengal,1235.0
+2023.0,Onion,March,Kolkata,West Bengal,1050.0
+2023.0,Onion,April,Kolkata,West Bengal,914.0
+2023.0,Onion,May,Kolkata,West Bengal,1344.0
+2023.0,Onion,June,Kolkata,West Bengal,1942.0
+2023.0,Onion,July,Kolkata,West Bengal,1981.0
+2023.0,Onion,August,Kolkata,West Bengal,2541.0
+2023.0,Onion,September,Kolkata,West Bengal,2713.0
+2023.0,Onion,October,Kolkata,West Bengal,3698.0
+2023.0,Onion,November,Kolkata,West Bengal,4050.0
+2023.0,Onion,December,Kolkata,West Bengal,3187.0
+2022.0,Apple,January,Mumbai,Maharashtra,9750.0
+2022.0,Apple,February,Mumbai,Maharashtra,9875.0
+2022.0,Apple,March,Mumbai,Maharashtra,9188.0
+2022.0,Apple,April,Mumbai,Maharashtra,10800.0
+2022.0,Apple,May,Mumbai,Maharashtra,13000.0
+2022.0,Apple,June,Mumbai,Maharashtra,13625.0
+2022.0,Apple,July,Mumbai,Maharashtra,12700.0
+2022.0,Apple,August,Mumbai,Maharashtra,11875.0
+2022.0,Apple,September,Mumbai,Maharashtra,11300.0
+2022.0,Apple,October,Mumbai,Maharashtra,9500.0
+2022.0,Apple,November,Mumbai,Maharashtra,8200.0
+2022.0,Apple,December,Mumbai,Maharashtra,9200.0
+2022.0,Apple,January,Chennai,Tamilnadu,13375.0
+2022.0,Apple,February,Chennai,Tamilnadu,13250.0
+2022.0,Apple,March,Chennai,Tamilnadu,13000.0
+2022.0,Apple,April,Chennai,Tamilnadu,13700.0
+2022.0,Apple,May,Chennai,Tamilnadu,14750.0
+2022.0,Apple,June,Chennai,Tamilnadu,16000.0
+2022.0,Apple,July,Chennai,Tamilnadu,17500.0
+2022.0,Apple,August,Chennai,Tamilnadu,17625.0
+2022.0,Apple,September,Chennai,Tamilnadu,13640.0
+2022.0,Apple,October,Chennai,Tamilnadu,10500.0
+2022.0,Apple,November,Chennai,Tamilnadu,9550.0
+2022.0,Apple,December,Chennai,Tamilnadu,9580.0
+2022.0,Apple,January,Lucknow,Uttarpradesh,7413.0
+2022.0,Apple,February,Lucknow,Uttarpradesh,7388.0
+2022.0,Apple,March,Lucknow,Uttarpradesh,7925.0
+2022.0,Apple,April,Lucknow,Uttarpradesh,9490.0
+2022.0,Apple,May,Lucknow,Uttarpradesh,9350.0
+2022.0,Apple,June,Lucknow,Uttarpradesh,9338.0
+2022.0,Apple,July,Lucknow,Uttarpradesh,9545.0
+2022.0,Apple,August,Lucknow,Uttarpradesh,7550.0
+2022.0,Apple,September,Lucknow,Uttarpradesh,6640.0
+2022.0,Apple,October,Lucknow,Uttarpradesh,6415.0
+2022.0,Apple,November,Lucknow,Uttarpradesh,6013.0
+2022.0,Apple,December,Lucknow,Uttarpradesh,5092.0
+2022.0,Apple,January,Delhi,Delhi,6325.0
+2022.0,Apple,February,Delhi,Delhi,7238.0
+2022.0,Apple,March,Delhi,Delhi,8950.0
+2022.0,Apple,April,Delhi,Delhi,9850.0
+2022.0,Apple,May,Delhi,Delhi,8375.0
+2022.0,Apple,June,Delhi,Delhi,9575.0
+2022.0,Apple,July,Delhi,Delhi,8620.0
+2022.0,Apple,August,Delhi,Delhi,5725.0
+2022.0,Apple,September,Delhi,Delhi,6680.0
+2022.0,Apple,October,Delhi,Delhi,7100.0
+2022.0,Apple,November,Delhi,Delhi,7000.0
+2022.0,Apple,December,Delhi,Delhi,6000.0
+2023.0,Apple,January,Mumbai,Maharashtra,8188.0
+2023.0,Apple,February,Mumbai,Maharashtra,8250.0
+2023.0,Apple,March,Mumbai,Maharashtra,8300.0
+2023.0,Apple,April,Mumbai,Maharashtra,8500.0
+2023.0,Apple,May,Mumbai,Maharashtra,13000.0
+2023.0,Apple,June,Mumbai,Maharashtra,11700.0
+2023.0,Apple,July,Mumbai,Maharashtra,11500.0
+2023.0,Apple,August,Mumbai,Maharashtra,10188.0
+2023.0,Apple,September,Mumbai,Maharashtra,12200.0
+2023.0,Apple,October,Mumbai,Maharashtra,11625.0
+2023.0,Apple,November,Mumbai,Maharashtra,9000.0
+2023.0,Apple,December,Mumbai,Maharashtra,9500.0
+2023.0,Apple,January,Chennai,Tamilnadu,11875.0
+2023.0,Apple,February,Chennai,Tamilnadu,13625.0
+2023.0,Apple,March,Chennai,Tamilnadu,14000.0
+2023.0,Apple,April,Chennai,Tamilnadu,14750.0
+2023.0,Apple,May,Chennai,Tamilnadu,15250.0
+2023.0,Apple,June,Chennai,Tamilnadu,15900.0
+2023.0,Apple,July,Chennai,Tamilnadu,19000.0
+2023.0,Apple,August,Chennai,Tamilnadu,21875.0
+2023.0,Apple,September,Chennai,Tamilnadu,21000.0
+2023.0,Apple,October,Chennai,Tamilnadu,21500.0
+2023.0,Apple,November,Chennai,Tamilnadu,21000.0
+2023.0,Apple,December,Chennai,Tamilnadu,19440.0
+2023.0,Apple,January,Lucknow,Uttarpradesh,5500.0
+2023.0,Apple,February,Lucknow,Uttarpradesh,6005.0
+2023.0,Apple,March,Lucknow,Uttarpradesh,7170.0
+2023.0,Apple,April,Lucknow,Uttarpradesh,8250.0
+2023.0,Apple,May,Lucknow,Uttarpradesh,8838.0
+2023.0,Apple,June,Lucknow,Uttarpradesh,9350.0
+2023.0,Apple,July,Lucknow,Uttarpradesh,9875.0
+2023.0,Apple,August,Lucknow,Uttarpradesh,9000.0
+2023.0,Apple,September,Lucknow,Uttarpradesh,7360.0
+2023.0,Apple,October,Lucknow,Uttarpradesh,7438.0
+2023.0,Apple,November,Lucknow,Uttarpradesh,8113.0
+2023.0,Apple,December,Lucknow,Uttarpradesh,7440.0
+2023.0,Apple,January,Delhi,Delhi,6300.0
+2023.0,Apple,February,Delhi,Delhi,7600.0
+2023.0,Apple,March,Delhi,Delhi,8680.0
+2023.0,Apple,April,Delhi,Delhi,8975.0
+2023.0,Apple,May,Delhi,Delhi,9000.0
+2023.0,Apple,June,Delhi,Delhi,9400.0
+2023.0,Apple,July,Delhi,Delhi,9338.0
+2023.0,Apple,August,Delhi,Delhi,10600.0
+2023.0,Apple,September,Delhi,Delhi,12977.0
+2023.0,Apple,October,Delhi,Delhi,9850.0
+2023.0,Apple,November,Delhi,Delhi,8745.0
+2023.0,Apple,December,Delhi,Delhi,10284.0
+2022.0,Orange,January,Nagpur,Maharashtra,1725.0
+2022.0,Orange,February,Nagpur,Maharashtra,2163.0
+2022.0,Orange,March,Nagpur,Maharashtra,2488.0
+2022.0,Orange,April,Nagpur,Maharashtra,3467.0
+2022.0,Orange,May,Nagpur,Maharashtra,3467.0
+2022.0,Orange,June,Nagpur,Maharashtra,3467.0
+2022.0,Orange,July,Nagpur,Maharashtra,3467.0
+2022.0,Orange,August,Nagpur,Maharashtra,3467.0
+2022.0,Orange,September,Nagpur,Maharashtra,1680.0
+2022.0,Orange,October,Nagpur,Maharashtra,2113.0
+2022.0,Orange,November,Nagpur,Maharashtra,1825.0
+2022.0,Orange,December,Nagpur,Maharashtra,2080.0
+2022.0,Orange,January,Chennai,Tamilnadu,1525.0
+2022.0,Orange,February,Chennai,Tamilnadu,1700.0
+2022.0,Orange,March,Chennai,Tamilnadu,1825.0
+2022.0,Orange,April,Chennai,Tamilnadu,1940.0
+2022.0,Orange,May,Chennai,Tamilnadu,1975.0
+2022.0,Orange,June,Chennai,Tamilnadu,1950.0
+2022.0,Orange,July,Chennai,Tamilnadu,2020.0
+2022.0,Orange,August,Chennai,Tamilnadu,2625.0
+2022.0,Orange,September,Chennai,Tamilnadu,2600.0
+2022.0,Orange,October,Chennai,Tamilnadu,2275.0
+2022.0,Orange,November,Chennai,Tamilnadu,1925.0
+2022.0,Orange,December,Chennai,Tamilnadu,2080.0
+2022.0,Orange,January,Kanpur,Uttarpradesh,641.0
+2022.0,Orange,February,Kanpur,Uttarpradesh,683.0
+2022.0,Orange,March,Kanpur,Uttarpradesh,719.0
+2022.0,Orange,April,Kanpur,Uttarpradesh,813.0
+2022.0,Orange,May,Kanpur,Uttarpradesh,925.0
+2022.0,Orange,June,Kanpur,Uttarpradesh,1213.0
+2022.0,Orange,July,Kanpur,Uttarpradesh,1213.0
+2022.0,Orange,August,Kanpur,Uttarpradesh,1213.0
+2022.0,Orange,September,Kanpur,Uttarpradesh,1213.0
+2022.0,Orange,October,Kanpur,Uttarpradesh,967.0
+2022.0,Orange,November,Kanpur,Uttarpradesh,788.0
+2022.0,Orange,December,Kanpur,Uttarpradesh,651.0
+2022.0,Orange,January,Kolkata,West Bengal,725.0
+2022.0,Orange,February,Kolkata,West Bengal,738.0
+2022.0,Orange,March,Kolkata,West Bengal,838.0
+2022.0,Orange,April,Kolkata,West Bengal,870.0
+2022.0,Orange,May,Kolkata,West Bengal,900.0
+2022.0,Orange,June,Kolkata,West Bengal,900.0
+2022.0,Orange,July,Kolkata,West Bengal,900.0
+2022.0,Orange,August,Kolkata,West Bengal,900.0
+2022.0,Orange,September,Kolkata,West Bengal,900.0
+2022.0,Orange,October,Kolkata,West Bengal,600.0
+2022.0,Orange,November,Kolkata,West Bengal,625.0
+2022.0,Orange,December,Kolkata,West Bengal,570.0
+2022.0,Orange,January,Delhi,Delhi,5250.0
+2022.0,Orange,February,Delhi,Delhi,5250.0
+2022.0,Orange,March,Delhi,Delhi,5250.0
+2022.0,Orange,April,Delhi,Delhi,4650.0
+2022.0,Orange,May,Delhi,Delhi,3133.0
+2022.0,Orange,June,Delhi,Delhi,3133.0
+2022.0,Orange,July,Delhi,Delhi,3133.0
+2022.0,Orange,August,Delhi,Delhi,4150.0
+2022.0,Orange,September,Delhi,Delhi,5280.0
+2022.0,Orange,October,Delhi,Delhi,4856.0
+2022.0,Orange,November,Delhi,Delhi,3700.0
+2022.0,Orange,December,Delhi,Delhi,3120.0
+2023.0,Orange,January,Nagpur,Maharashtra,2450.0
+2023.0,Orange,February,Nagpur,Maharashtra,2913.0
+2023.0,Orange,March,Nagpur,Maharashtra,2550.0
+2023.0,Orange,April,Nagpur,Maharashtra,3483.0
+2023.0,Orange,May,Nagpur,Maharashtra,3483.0
+2023.0,Orange,June,Nagpur,Maharashtra,3483.0
+2023.0,Orange,July,Nagpur,Maharashtra,3483.0
+2023.0,Orange,August,Nagpur,Maharashtra,3483.0
+2023.0,Orange,September,Nagpur,Maharashtra,1788.0
+2023.0,Orange,October,Nagpur,Maharashtra,1288.0
+2023.0,Orange,November,Nagpur,Maharashtra,1800.0
+2023.0,Orange,December,Nagpur,Maharashtra,1619.0
+2023.0,Orange,January,Chennai,Tamilnadu,2150.0
+2023.0,Orange,February,Chennai,Tamilnadu,2100.0
+2023.0,Orange,March,Chennai,Tamilnadu,2060.0
+2023.0,Orange,April,Chennai,Tamilnadu,1925.0
+2023.0,Orange,May,Chennai,Tamilnadu,2200.0
+2023.0,Orange,June,Chennai,Tamilnadu,2100.0
+2023.0,Orange,July,Chennai,Tamilnadu,2075.0
+2023.0,Orange,August,Chennai,Tamilnadu,2375.0
+2023.0,Orange,September,Chennai,Tamilnadu,2540.0
+2023.0,Orange,October,Chennai,Tamilnadu,2400.0
+2023.0,Orange,November,Chennai,Tamilnadu,2250.0
+2023.0,Orange,December,Chennai,Tamilnadu,2090.0
+2023.0,Orange,January,Kanpur,Uttarpradesh,578.0
+2023.0,Orange,February,Kanpur,Uttarpradesh,604.0
+2023.0,Orange,March,Kanpur,Uttarpradesh,685.0
+2023.0,Orange,April,Kanpur,Uttarpradesh,720.0
+2023.0,Orange,May,Kanpur,Uttarpradesh,720.0
+2023.0,Orange,June,Kanpur,Uttarpradesh,720.0
+2023.0,Orange,July,Kanpur,Uttarpradesh,720.0
+2023.0,Orange,August,Kanpur,Uttarpradesh,720.0
+2023.0,Orange,September,Kanpur,Uttarpradesh,720.0
+2023.0,Orange,October,Kanpur,Uttarpradesh,700.0
+2023.0,Orange,November,Kanpur,Uttarpradesh,650.0
+2023.0,Orange,December,Kanpur,Uttarpradesh,590.0
+2023.0,Orange,January,Kolkata,West Bengal,713.0
+2023.0,Orange,February,Kolkata,West Bengal,813.0
+2023.0,Orange,March,Kolkata,West Bengal,1150.0
+2023.0,Orange,April,Kolkata,West Bengal,1550.0
+2023.0,Orange,May,Kolkata,West Bengal,1550.0
+2023.0,Orange,June,Kolkata,West Bengal,1550.0
+2023.0,Orange,July,Kolkata,West Bengal,1550.0
+2023.0,Orange,August,Kolkata,West Bengal,1550.0
+2023.0,Orange,September,Kolkata,West Bengal,1550.0
+2023.0,Orange,October,Kolkata,West Bengal,750.0
+2023.0,Orange,November,Kolkata,West Bengal,663.0
+2023.0,Orange,December,Kolkata,West Bengal,630.0
+2023.0,Orange,January,Delhi,Delhi,4200.0
+2023.0,Orange,February,Delhi,Delhi,4450.0
+2023.0,Orange,March,Delhi,Delhi,4640.0
+2023.0,Orange,April,Delhi,Delhi,6238.0
+2023.0,Orange,May,Delhi,Delhi,6533.0
+2023.0,Orange,June,Delhi,Delhi,6533.0
+2023.0,Orange,July,Delhi,Delhi,6533.0
+2023.0,Orange,August,Delhi,Delhi,6533.0
+2023.0,Orange,September,Delhi,Delhi,4316.0
+2023.0,Orange,October,Delhi,Delhi,4100.0
+2023.0,Orange,November,Delhi,Delhi,3521.0
+2023.0,Orange,December,Delhi,Delhi,2738.0
+2022.0,Banana,January,Rajahmundry,Andhra Pradesh,269.0
+2022.0,Banana,February,Rajahmundry,Andhra Pradesh,289.0
+2022.0,Banana,March,Rajahmundry,Andhra Pradesh,323.0
+2022.0,Banana,April,Rajahmundry,Andhra Pradesh,357.0
+2022.0,Banana,May,Rajahmundry,Andhra Pradesh,415.0
+2022.0,Banana,June,Rajahmundry,Andhra Pradesh,416.0
+2022.0,Banana,July,Rajahmundry,Andhra Pradesh,336.0
+2022.0,Banana,August,Rajahmundry,Andhra Pradesh,383.0
+2022.0,Banana,September,Rajahmundry,Andhra Pradesh,478.0
+2022.0,Banana,October,Rajahmundry,Andhra Pradesh,500.0
+2022.0,Banana,November,Rajahmundry,Andhra Pradesh,538.0
+2022.0,Banana,December,Rajahmundry,Andhra Pradesh,552.0
+2022.0,Banana,January,Jalgao,Maharashtra,123.0
+2022.0,Banana,February,Jalgao,Maharashtra,123.0
+2022.0,Banana,March,Jalgao,Maharashtra,135.0
+2022.0,Banana,April,Jalgao,Maharashtra,142.0
+2022.0,Banana,May,Jalgao,Maharashtra,143.0
+2022.0,Banana,June,Jalgao,Maharashtra,153.0
+2022.0,Banana,July,Jalgao,Maharashtra,214.0
+2022.0,Banana,August,Jalgao,Maharashtra,288.0
+2022.0,Banana,September,Jalgao,Maharashtra,234.0
+2022.0,Banana,October,Jalgao,Maharashtra,203.0
+2022.0,Banana,November,Jalgao,Maharashtra,207.0
+2022.0,Banana,December,Jalgao,Maharashtra,250.0
+2022.0,Banana,January,Vellore,Tamilnadu,288.0
+2022.0,Banana,February,Vellore,Tamilnadu,313.0
+2022.0,Banana,March,Vellore,Tamilnadu,350.0
+2022.0,Banana,April,Vellore,Tamilnadu,350.0
+2022.0,Banana,May,Vellore,Tamilnadu,250.0
+2022.0,Banana,June,Vellore,Tamilnadu,258.0
+2022.0,Banana,July,Vellore,Tamilnadu,328.0
+2022.0,Banana,August,Vellore,Tamilnadu,450.0
+2022.0,Banana,September,Vellore,Tamilnadu,408.0
+2022.0,Banana,October,Vellore,Tamilnadu,300.0
+2022.0,Banana,November,Vellore,Tamilnadu,300.0
+2022.0,Banana,December,Vellore,Tamilnadu,250.0
+2022.0,Banana,January,Kanpur,Uttarpradesh,304.0
+2022.0,Banana,February,Kanpur,Uttarpradesh,325.0
+2022.0,Banana,March,Kanpur,Uttarpradesh,384.0
+2022.0,Banana,April,Kanpur,Uttarpradesh,446.0
+2022.0,Banana,May,Kanpur,Uttarpradesh,481.0
+2022.0,Banana,June,Kanpur,Uttarpradesh,484.0
+2022.0,Banana,July,Kanpur,Uttarpradesh,438.0
+2022.0,Banana,August,Kanpur,Uttarpradesh,425.0
+2022.0,Banana,September,Kanpur,Uttarpradesh,368.0
+2022.0,Banana,October,Kanpur,Uttarpradesh,360.0
+2022.0,Banana,November,Kanpur,Uttarpradesh,316.0
+2022.0,Banana,December,Kanpur,Uttarpradesh,303.0
+2022.0,Banana,January,Kolkata,West Bengal,211.0
+2022.0,Banana,February,Kolkata,West Bengal,246.0
+2022.0,Banana,March,Kolkata,West Bengal,216.0
+2022.0,Banana,April,Kolkata,West Bengal,215.0
+2022.0,Banana,May,Kolkata,West Bengal,306.0
+2022.0,Banana,June,Kolkata,West Bengal,380.0
+2022.0,Banana,July,Kolkata,West Bengal,378.0
+2022.0,Banana,August,Kolkata,West Bengal,318.0
+2022.0,Banana,September,Kolkata,West Bengal,360.0
+2022.0,Banana,October,Kolkata,West Bengal,333.0
+2022.0,Banana,November,Kolkata,West Bengal,338.0
+2022.0,Banana,December,Kolkata,West Bengal,326.0
+2023.0,Banana,January,Rajahmundry,Andhra Pradesh,525.0
+2023.0,Banana,February,Rajahmundry,Andhra Pradesh,505.0
+2023.0,Banana,March,Rajahmundry,Andhra Pradesh,486.0
+2023.0,Banana,April,Rajahmundry,Andhra Pradesh,498.0
+2023.0,Banana,May,Rajahmundry,Andhra Pradesh,515.0
+2023.0,Banana,June,Rajahmundry,Andhra Pradesh,512.0
+2023.0,Banana,July,Rajahmundry,Andhra Pradesh,508.0
+2023.0,Banana,August,Rajahmundry,Andhra Pradesh,538.0
+2023.0,Banana,September,Rajahmundry,Andhra Pradesh,604.0
+2023.0,Banana,October,Rajahmundry,Andhra Pradesh,613.0
+2023.0,Banana,November,Rajahmundry,Andhra Pradesh,603.0
+2023.0,Banana,December,Rajahmundry,Andhra Pradesh,602.0
+2023.0,Banana,January,Jalgao,Maharashtra,255.0
+2023.0,Banana,February,Jalgao,Maharashtra,275.0
+2023.0,Banana,March,Jalgao,Maharashtra,316.0
+2023.0,Banana,April,Jalgao,Maharashtra,315.0
+2023.0,Banana,May,Jalgao,Maharashtra,315.0
+2023.0,Banana,June,Jalgao,Maharashtra,308.0
+2023.0,Banana,July,Jalgao,Maharashtra,353.0
+2023.0,Banana,August,Jalgao,Maharashtra,408.0
+2023.0,Banana,September,Jalgao,Maharashtra,420.0
+2023.0,Banana,October,Jalgao,Maharashtra,350.0
+2023.0,Banana,November,Jalgao,Maharashtra,345.0
+2023.0,Banana,December,Jalgao,Maharashtra,420.0
+2023.0,Banana,January,Vellore,Tamilnadu,300.0
+2023.0,Banana,February,Vellore,Tamilnadu,300.0
+2023.0,Banana,March,Vellore,Tamilnadu,274.0
+2023.0,Banana,April,Vellore,Tamilnadu,163.0
+2023.0,Banana,May,Vellore,Tamilnadu,192.0
+2023.0,Banana,June,Vellore,Tamilnadu,167.0
+2023.0,Banana,July,Vellore,Tamilnadu,167.0
+2023.0,Banana,August,Vellore,Tamilnadu,275.0
+2023.0,Banana,September,Vellore,Tamilnadu,300.0
+2023.0,Banana,October,Vellore,Tamilnadu,300.0
+2023.0,Banana,November,Vellore,Tamilnadu,300.0
+2023.0,Banana,December,Vellore,Tamilnadu,300.0
+2023.0,Banana,January,Kanpur,Uttarpradesh,290.0
+2023.0,Banana,February,Kanpur,Uttarpradesh,343.0
+2023.0,Banana,March,Kanpur,Uttarpradesh,410.0
+2023.0,Banana,April,Kanpur,Uttarpradesh,478.0
+2023.0,Banana,May,Kanpur,Uttarpradesh,494.0
+2023.0,Banana,June,Kanpur,Uttarpradesh,482.0
+2023.0,Banana,July,Kanpur,Uttarpradesh,488.0
+2023.0,Banana,August,Kanpur,Uttarpradesh,455.0
+2023.0,Banana,September,Kanpur,Uttarpradesh,423.0
+2023.0,Banana,October,Kanpur,Uttarpradesh,438.0
+2023.0,Banana,November,Kanpur,Uttarpradesh,471.0
+2023.0,Banana,December,Kanpur,Uttarpradesh,440.0
+2023.0,Banana,January,Kolkata,West Bengal,256.0
+2023.0,Banana,February,Kolkata,West Bengal,300.0
+2023.0,Banana,March,Kolkata,West Bengal,350.0
+2023.0,Banana,April,Kolkata,West Bengal,430.0
+2023.0,Banana,May,Kolkata,West Bengal,368.0
+2023.0,Banana,June,Kolkata,West Bengal,361.0
+2023.0,Banana,July,Kolkata,West Bengal,343.0
+2023.0,Banana,August,Kolkata,West Bengal,331.0
+2023.0,Banana,September,Kolkata,West Bengal,356.0
+2023.0,Banana,October,Kolkata,West Bengal,375.0
+2023.0,Banana,November,Kolkata,West Bengal,363.0
+2023.0,Banana,December,Kolkata,West Bengal,318.0
+2022.0,Coconut,January,Rajahmundry,Andhra Pradesh,17025.0
+2022.0,Coconut,February,Rajahmundry,Andhra Pradesh,17400.0
+2022.0,Coconut,March,Rajahmundry,Andhra Pradesh,17875.0
+2022.0,Coconut,April,Rajahmundry,Andhra Pradesh,18100.0
+2022.0,Coconut,May,Rajahmundry,Andhra Pradesh,17500.0
+2022.0,Coconut,June,Rajahmundry,Andhra Pradesh,16500.0
+2022.0,Coconut,July,Rajahmundry,Andhra Pradesh,12980.0
+2022.0,Coconut,August,Rajahmundry,Andhra Pradesh,14000.0
+2022.0,Coconut,September,Rajahmundry,Andhra Pradesh,16400.0
+2022.0,Coconut,October,Rajahmundry,Andhra Pradesh,19250.0
+2022.0,Coconut,November,Rajahmundry,Andhra Pradesh,19625.0
+2022.0,Coconut,December,Rajahmundry,Andhra Pradesh,20100.0
+2022.0,Coconut,January,Manglore,Karnataka,24750.0
+2022.0,Coconut,February,Manglore,Karnataka,23750.0
+2022.0,Coconut,March,Manglore,Karnataka,19250.0
+2022.0,Coconut,April,Manglore,Karnataka,19000.0
+2022.0,Coconut,May,Manglore,Karnataka,19000.0
+2022.0,Coconut,June,Manglore,Karnataka,20500.0
+2022.0,Coconut,July,Manglore,Karnataka,19000.0
+2022.0,Coconut,August,Manglore,Karnataka,19000.0
+2022.0,Coconut,September,Manglore,Karnataka,19000.0
+2022.0,Coconut,October,Manglore,Karnataka,19000.0
+2022.0,Coconut,November,Manglore,Karnataka,19000.0
+2022.0,Coconut,December,Manglore,Karnataka,18200.0
+2022.0,Coconut,January,Kozhikode,Kerala,9950.0
+2022.0,Coconut,February,Kozhikode,Kerala,9700.0
+2022.0,Coconut,March,Kozhikode,Kerala,10050.0
+2022.0,Coconut,April,Kozhikode,Kerala,10020.0
+2022.0,Coconut,May,Kozhikode,Kerala,9200.0
+2022.0,Coconut,June,Kozhikode,Kerala,8850.0
+2022.0,Coconut,July,Kozhikode,Kerala,9200.0
+2022.0,Coconut,August,Kozhikode,Kerala,9325.0
+2022.0,Coconut,September,Kozhikode,Kerala,8900.0
+2022.0,Coconut,October,Kozhikode,Kerala,8000.0
+2022.0,Coconut,November,Kozhikode,Kerala,8525.0
+2022.0,Coconut,December,Kozhikode,Kerala,8900.0
+2022.0,Coconut,January,Kolkata,West Bengal,27250.0
+2022.0,Coconut,February,Kolkata,West Bengal,28000.0
+2022.0,Coconut,March,Kolkata,West Bengal,27500.0
+2022.0,Coconut,April,Kolkata,West Bengal,28000.0
+2022.0,Coconut,May,Kolkata,West Bengal,26500.0
+2022.0,Coconut,June,Kolkata,West Bengal,26750.0
+2022.0,Coconut,July,Kolkata,West Bengal,30000.0
+2022.0,Coconut,August,Kolkata,West Bengal,30000.0
+2022.0,Coconut,September,Kolkata,West Bengal,30000.0
+2022.0,Coconut,October,Kolkata,West Bengal,30000.0
+2022.0,Coconut,November,Kolkata,West Bengal,30000.0
+2022.0,Coconut,December,Kolkata,West Bengal,30000.0
+2022.0,Coconut,January,Mapusa,Goa,12800.0
+2022.0,Coconut,February,Mapusa,Goa,11975.0
+2022.0,Coconut,March,Mapusa,Goa,12175.0
+2022.0,Coconut,April,Mapusa,Goa,10900.0
+2022.0,Coconut,May,Mapusa,Goa,9750.0
+2022.0,Coconut,June,Mapusa,Goa,10550.0
+2022.0,Coconut,July,Mapusa,Goa,10560.0
+2022.0,Coconut,August,Mapusa,Goa,10550.0
+2022.0,Coconut,September,Mapusa,Goa,10300.0
+2022.0,Coconut,October,Mapusa,Goa,9975.0
+2022.0,Coconut,November,Mapusa,Goa,10000.0
+2022.0,Coconut,December,Mapusa,Goa,10000.0
+2023.0,Coconut,January,Rajahmundry,Andhra Pradesh,23025.0
+2023.0,Coconut,February,Rajahmundry,Andhra Pradesh,22525.0
+2023.0,Coconut,March,Rajahmundry,Andhra Pradesh,19500.0
+2023.0,Coconut,April,Rajahmundry,Andhra Pradesh,17250.0
+2023.0,Coconut,May,Rajahmundry,Andhra Pradesh,17100.0
+2023.0,Coconut,June,Rajahmundry,Andhra Pradesh,16740.0
+2023.0,Coconut,July,Rajahmundry,Andhra Pradesh,16125.0
+2023.0,Coconut,August,Rajahmundry,Andhra Pradesh,15550.0
+2023.0,Coconut,September,Rajahmundry,Andhra Pradesh,15860.0
+2023.0,Coconut,October,Rajahmundry,Andhra Pradesh,16800.0
+2023.0,Coconut,November,Rajahmundry,Andhra Pradesh,17050.0
+2023.0,Coconut,December,Rajahmundry,Andhra Pradesh,17740.0
+2023.0,Coconut,January,Manglore,Karnataka,18000.0
+2023.0,Coconut,February,Manglore,Karnataka,18000.0
+2023.0,Coconut,March,Manglore,Karnataka,18000.0
+2023.0,Coconut,April,Manglore,Karnataka,18000.0
+2023.0,Coconut,May,Manglore,Karnataka,18375.0
+2023.0,Coconut,June,Manglore,Karnataka,18100.0
+2023.0,Coconut,July,Manglore,Karnataka,18375.0
+2023.0,Coconut,August,Manglore,Karnataka,18000.0
+2023.0,Coconut,September,Manglore,Karnataka,18200.0
+2023.0,Coconut,October,Manglore,Karnataka,18125.0
+2023.0,Coconut,November,Manglore,Karnataka,18000.0
+2023.0,Coconut,December,Manglore,Karnataka,18400.0
+2023.0,Coconut,January,Kozhikode,Kerala,10000.0
+2023.0,Coconut,February,Kozhikode,Kerala,10000.0
+2023.0,Coconut,March,Kozhikode,Kerala,10000.0
+2023.0,Coconut,April,Kozhikode,Kerala,10000.0
+2023.0,Coconut,May,Kozhikode,Kerala,9875.0
+2023.0,Coconut,June,Kozhikode,Kerala,9100.0
+2023.0,Coconut,July,Kozhikode,Kerala,9000.0
+2023.0,Coconut,August,Kozhikode,Kerala,9425.0
+2023.0,Coconut,September,Kozhikode,Kerala,9500.0
+2023.0,Coconut,October,Kozhikode,Kerala,9700.0
+2023.0,Coconut,November,Kozhikode,Kerala,10200.0
+2023.0,Coconut,December,Kozhikode,Kerala,10200.0
+2023.0,Coconut,January,Kolkata,West Bengal,30000.0
+2023.0,Coconut,February,Kolkata,West Bengal,27500.0
+2023.0,Coconut,March,Kolkata,West Bengal,25800.0
+2023.0,Coconut,April,Kolkata,West Bengal,25000.0
+2023.0,Coconut,May,Kolkata,West Bengal,25000.0
+2023.0,Coconut,June,Kolkata,West Bengal,24000.0
+2023.0,Coconut,July,Kolkata,West Bengal,22000.0
+2023.0,Coconut,August,Kolkata,West Bengal,22000.0
+2023.0,Coconut,September,Kolkata,West Bengal,22000.0
+2023.0,Coconut,October,Kolkata,West Bengal,24750.0
+2023.0,Coconut,November,Kolkata,West Bengal,25000.0
+2023.0,Coconut,December,Kolkata,West Bengal,25000.0
+2023.0,Coconut,January,Mapusa,Goa,10025.0
+2023.0,Coconut,February,Mapusa,Goa,10000.0
+2023.0,Coconut,March,Mapusa,Goa,10200.0
+2023.0,Coconut,April,Mapusa,Goa,10500.0
+2023.0,Coconut,May,Mapusa,Goa,10275.0
+2023.0,Coconut,June,Mapusa,Goa,10800.0
+2023.0,Coconut,July,Mapusa,Goa,11833.0
+2023.0,Coconut,August,Mapusa,Goa,12000.0
+2023.0,Coconut,September,Mapusa,Goa,12000.0
+2023.0,Coconut,October,Mapusa,Goa,12000.0
+2023.0,Coconut,November,Mapusa,Goa,12000.0
+2023.0,Coconut,December,Mapusa,Goa,12000.0
+2022.0,Almond,January ,Jammu,Jammu & Kashmir,35000.0
+2022.0,Almond,February,Jammu,Jammu & Kashmir,31250.0
+2022.0,Almond,March ,Jammu,Jammu & Kashmir,30000.0
+2022.0,Almond,April ,Jammu,Jammu & Kashmir,30000.0
+2022.0,Almond,May,Jammu,Jammu & Kashmir,30000.0
+2022.0,Almond,June,Jammu,Jammu & Kashmir,30000.0
+2022.0,Almond,July ,Jammu,Jammu & Kashmir,30000.0
+2022.0,Almond,August ,Jammu,Jammu & Kashmir,30000.0
+2022.0,Almond,September ,Jammu,Jammu & Kashmir,30000.0
+2022.0,Almond,October ,Jammu,Jammu & Kashmir,30000.0
+2022.0,Almond,November ,Jammu,Jammu & Kashmir,30000.0
+2022.0,Almond,December ,Jammu,Jammu & Kashmir,30000.0
+2022.0,Almond,January,Mumbai,Maharashtra,58250.0
+2022.0,Almond,February,Mumbai,Maharashtra,73000.0
+2022.0,Almond,March,Mumbai,Maharashtra,81375.0
+2022.0,Almond,April,Mumbai,Maharashtra,84800.0
+2022.0,Almond,May,Mumbai,Maharashtra,84875.0
+2022.0,Almond,June,Mumbai,Maharashtra,73375.0
+2022.0,Almond,July,Mumbai,Maharashtra,58000.0
+2022.0,Almond,August,Mumbai,Maharashtra,55500.0
+2022.0,Almond,September,Mumbai,Maharashtra,55040.0
+2022.0,Almond,October,Mumbai,Maharashtra,62500.0
+2022.0,Almond,November,Mumbai,Maharashtra,72500.0
+2022.0,Almond,December,Mumbai,Maharashtra,75000.0
+2022.0,Almond,January,Kanpur,Uttarpradesh,63000.0
+2022.0,Almond,February,Kanpur,Uttarpradesh,66000.0
+2022.0,Almond,March,Kanpur,Uttarpradesh,67250.0
+2022.0,Almond,April,Kanpur,Uttarpradesh,66650.0
+2022.0,Almond,May,Kanpur,Uttarpradesh,66500.0
+2022.0,Almond,June,Kanpur,Uttarpradesh,64763.0
+2022.0,Almond,July,Kanpur,Uttarpradesh,64100.0
+2022.0,Almond,August,Kanpur,Uttarpradesh,64500.0
+2022.0,Almond,September,Kanpur,Uttarpradesh,63300.0
+2022.0,Almond,October,Kanpur,Uttarpradesh,65500.0
+2022.0,Almond,November,Kanpur,Uttarpradesh,61250.0
+2022.0,Almond,December,Kanpur,Uttarpradesh,61000.0
+2022.0,Almond,January,Delhi,Delhi,78000.0
+2022.0,Almond,February,Delhi,Delhi,76875.0
+2022.0,Almond,March,Delhi,Delhi,72875.0
+2022.0,Almond,April,Delhi,Delhi,71200.0
+2022.0,Almond,May,Delhi,Delhi,70750.0
+2022.0,Almond,June,Delhi,Delhi,70000.0
+2022.0,Almond,July,Delhi,Delhi,70000.0
+2022.0,Almond,August,Delhi,Delhi,70000.0
+2022.0,Almond,September,Delhi,Delhi,70000.0
+2022.0,Almond,October,Delhi,Delhi,71000.0
+2022.0,Almond,November,Delhi,Delhi,71000.0
+2022.0,Almond,December,Delhi,Delhi,71000.0
+2023.0,Almond,January,Jammu,Jammu & Kashmir,30000.0
+2023.0,Almond,February,Jammu,Jammu & Kashmir,30000.0
+2023.0,Almond,March,Jammu,Jammu & Kashmir,30000.0
+2023.0,Almond,April,Jammu,Jammu & Kashmir,30000.0
+2023.0,Almond,May,Jammu,Jammu & Kashmir,32500.0
+2023.0,Almond,June,Jammu,Jammu & Kashmir,35000.0
+2023.0,Almond,July,Jammu,Jammu & Kashmir,35000.0
+2023.0,Almond,August,Jammu,Jammu & Kashmir,35000.0
+2023.0,Almond,September,Jammu,Jammu & Kashmir,35000.0
+2023.0,Almond,October,Jammu,Jammu & Kashmir,33500.0
+2023.0,Almond,November,Jammu,Jammu & Kashmir,34000.0
+2023.0,Almond,December,Jammu,Jammu & Kashmir,34000.0
+2023.0,Almond,January,Mumbai,Maharashtra,75000.0
+2023.0,Almond,February,Mumbai,Maharashtra,75000.0
+2023.0,Almond,March,Mumbai,Maharashtra,75000.0
+2023.0,Almond,April,Mumbai,Maharashtra,75500.0
+2023.0,Almond,May,Mumbai,Maharashtra,75000.0
+2023.0,Almond,June,Mumbai,Maharashtra,75000.0
+2023.0,Almond,July,Mumbai,Maharashtra,75000.0
+2023.0,Almond,August,Mumbai,Maharashtra,75000.0
+2023.0,Almond,September,Mumbai,Maharashtra,75300.0
+2023.0,Almond,October,Mumbai,Maharashtra,72500.0
+2023.0,Almond,November,Mumbai,Maharashtra,71875.0
+2023.0,Almond,December,Mumbai,Maharashtra,73000.0
+2023.0,Almond,January,Kanpur,Uttarpradesh,58000.0
+2023.0,Almond,February,Kanpur,Uttarpradesh,59500.0
+2023.0,Almond,March,Kanpur,Uttarpradesh,59800.0
+2023.0,Almond,April,Kanpur,Uttarpradesh,57500.0
+2023.0,Almond,May,Kanpur,Uttarpradesh,56000.0
+2023.0,Almond,June,Kanpur,Uttarpradesh,56600.0
+2023.0,Almond,July,Kanpur,Uttarpradesh,55500.0
+2023.0,Almond,August,Kanpur,Uttarpradesh,56000.0
+2023.0,Almond,September,Kanpur,Uttarpradesh,56300.0
+2023.0,Almond,October,Kanpur,Uttarpradesh,57250.0
+2023.0,Almond,November,Kanpur,Uttarpradesh,59500.0
+2023.0,Almond,December,Kanpur,Uttarpradesh,63600.0
+2023.0,Almond,January,Delhi,Delhi,71500.0
+2023.0,Almond,February,Delhi,Delhi,71125.0
+2023.0,Almond,March,Delhi,Delhi,70400.0
+2023.0,Almond,April,Delhi,Delhi,69975.0
+2023.0,Almond,May,Delhi,Delhi,69900.0
+2023.0,Almond,June,Delhi,Delhi,69900.0
+2023.0,Almond,July,Delhi,Delhi,69938.0
+2023.0,Almond,August,Delhi,Delhi,70013.0
+2023.0,Almond,September,Delhi,Delhi,70020.0
+2023.0,Almond,October,Delhi,Delhi,70013.0
+2023.0,Almond,November,Delhi,Delhi,70050.0
+2023.0,Almond,December,Delhi,Delhi,69200.0
